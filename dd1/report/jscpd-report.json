@@ -1,12 +1,12 @@
 {
 	"duplicates": [],
 	"statistics": {
-		"detectionDate": "2020-05-10T14:40:03.058Z",
+		"detectionDate": "2020-05-10T14:40:13.993Z",
 		"formats": {
 			"json": {
 				"sources": {
 					"report/jscpd-report.json": {
-						"lines": 129,
+						"lines": 96,
 						"sources": 1,
 						"clones": 0,
 						"duplicatedLines": 0,
@@ -25,7 +25,7 @@
 					}
 				},
 				"total": {
-					"lines": 152,
+					"lines": 119,
 					"sources": 2,
 					"clones": 0,
 					"duplicatedLines": 0,
@@ -85,7 +85,7 @@
 			}
 		},
 		"total": {
-			"lines": 229,
+			"lines": 196,
 			"sources": 6,
 			"clones": 0,
 			"duplicatedLines": 0,

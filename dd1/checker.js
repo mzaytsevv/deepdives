@@ -6,7 +6,7 @@ let warn = args['warn'];
 
 let duplicates = {};
 
-const countDuplicity = function(){
+const duplicity = (()=>{
     exec("jscpd --ignore '**/node_modules/**' . --reporters json", (error, stdout, stderr) => {
         if (error) {
             console.log(`error: ${error.message}`);
@@ -49,8 +49,11 @@ const countDuplicity = function(){
               console.log(err);
         });
     });        
-};
+});
 
-countDuplicity();
+const tsLint = (()=>{});
+
+duplicity();
+tsLint()
 
 

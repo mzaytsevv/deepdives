@@ -2,19 +2,19 @@
 	"duplicates": [
 		{
 			"format": "javascript",
-			"lines": 11,
-			"fragment": "console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n    }",
+			"lines": 10,
+			"fragment": "console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n    }",
 			"tokens": 0,
 			"firstFile": {
 				"name": "helpers/helper2.js",
 				"start": 7,
-				"end": 17,
+				"end": 16,
 				"startLoc": {
 					"line": 7,
 					"column": 9
 				},
 				"endLoc": {
-					"line": 17,
+					"line": 16,
 					"column": 6
 				}
 			},
@@ -34,7 +34,7 @@
 		}
 	],
 	"statistics": {
-		"detectionDate": "2020-05-10T14:38:20.140Z",
+		"detectionDate": "2020-05-10T14:39:06.061Z",
 		"formats": {
 			"json": {
 				"sources": {
@@ -70,11 +70,11 @@
 			"javascript": {
 				"sources": {
 					"helpers/helper2.js": {
-						"lines": 17,
+						"lines": 16,
 						"sources": 1,
 						"clones": 2,
-						"duplicatedLines": 20,
-						"percentage": 117.65,
+						"duplicatedLines": 18,
+						"percentage": 112.5,
 						"newDuplicatedLines": 0,
 						"newClones": 0
 					},
@@ -107,22 +107,22 @@
 					}
 				},
 				"total": {
-					"lines": 79,
+					"lines": 78,
 					"sources": 4,
 					"clones": 1,
-					"duplicatedLines": 10,
-					"percentage": 12.66,
+					"duplicatedLines": 9,
+					"percentage": 11.54,
 					"newDuplicatedLines": 0,
 					"newClones": 0
 				}
 			}
 		},
 		"total": {
-			"lines": 231,
+			"lines": 230,
 			"sources": 6,
 			"clones": 1,
-			"duplicatedLines": 10,
-			"percentage": 4.33,
+			"duplicatedLines": 9,
+			"percentage": 3.91,
 			"newDuplicatedLines": 0,
 			"newClones": 0
 		}

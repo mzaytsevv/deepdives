@@ -1,0 +1,130 @@
+{
+	"duplicates": [
+		{
+			"format": "javascript",
+			"lines": 14,
+			"fragment": "console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n    }",
+			"tokens": 0,
+			"firstFile": {
+				"name": "helpers/helper2.js",
+				"start": 7,
+				"end": 20,
+				"startLoc": {
+					"line": 7,
+					"column": 9
+				},
+				"endLoc": {
+					"line": 20,
+					"column": 6
+				}
+			},
+			"secondFile": {
+				"name": "helpers/helper2.js",
+				"start": 6,
+				"end": 15,
+				"startLoc": {
+					"line": 6,
+					"column": 9
+				},
+				"endLoc": {
+					"line": 15,
+					"column": 16
+				}
+			}
+		}
+	],
+	"statistics": {
+		"detectionDate": "2020-05-10T14:34:47.038Z",
+		"formats": {
+			"json": {
+				"sources": {
+					"report/jscpd-report.json": {
+						"lines": 129,
+						"sources": 1,
+						"clones": 0,
+						"duplicatedLines": 0,
+						"percentage": 0,
+						"newDuplicatedLines": 0,
+						"newClones": 0
+					},
+					"package.json": {
+						"lines": 21,
+						"sources": 1,
+						"clones": 0,
+						"duplicatedLines": 0,
+						"percentage": 0,
+						"newDuplicatedLines": 0,
+						"newClones": 0
+					}
+				},
+				"total": {
+					"lines": 150,
+					"sources": 2,
+					"clones": 0,
+					"duplicatedLines": 0,
+					"percentage": 0,
+					"newDuplicatedLines": 0,
+					"newClones": 0
+				}
+			},
+			"javascript": {
+				"sources": {
+					"helpers/helper2.js": {
+						"lines": 20,
+						"sources": 1,
+						"clones": 2,
+						"duplicatedLines": 26,
+						"percentage": 130,
+						"newDuplicatedLines": 0,
+						"newClones": 0
+					},
+					"helpers/helper1.js": {
+						"lines": 4,
+						"sources": 1,
+						"clones": 0,
+						"duplicatedLines": 0,
+						"percentage": 0,
+						"newDuplicatedLines": 0,
+						"newClones": 0
+					},
+					"test-duplicated.js": {
+						"lines": 5,
+						"sources": 1,
+						"clones": 0,
+						"duplicatedLines": 0,
+						"percentage": 0,
+						"newDuplicatedLines": 0,
+						"newClones": 0
+					},
+					"checker.js": {
+						"lines": 53,
+						"sources": 1,
+						"clones": 0,
+						"duplicatedLines": 0,
+						"percentage": 0,
+						"newDuplicatedLines": 0,
+						"newClones": 0
+					}
+				},
+				"total": {
+					"lines": 82,
+					"sources": 4,
+					"clones": 1,
+					"duplicatedLines": 13,
+					"percentage": 15.85,
+					"newDuplicatedLines": 0,
+					"newClones": 0
+				}
+			}
+		},
+		"total": {
+			"lines": 232,
+			"sources": 6,
+			"clones": 1,
+			"duplicatedLines": 13,
+			"percentage": 5.6,
+			"newDuplicatedLines": 0,
+			"newClones": 0
+		}
+	}
+}

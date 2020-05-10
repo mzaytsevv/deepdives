@@ -1,5 +1,5 @@
 module.exports = {
     helper1 : function(){
-        console.log("helper 1");
+        console.log("This is a helper 1");
     }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "helpers-duplicated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prerun": "npm run-script checker -- --warn=true",
+    "run": "node test-duplicated.js",
+    "checker": "node checker.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git-changed-files": "^1.0.0",
+    "husky": "^4.2.5",
+    "jscpd": "^3.3.0-rc.6",
+    "minimist": "^1.2.5"
+  },
+  "husky": {
+    "pre-commit": "npm run-script checker --reject"
+  }
+}

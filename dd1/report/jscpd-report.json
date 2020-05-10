@@ -2,19 +2,19 @@
 	"duplicates": [
 		{
 			"format": "javascript",
-			"lines": 14,
-			"fragment": "console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n    }",
+			"lines": 11,
+			"fragment": "console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n    }",
 			"tokens": 0,
 			"firstFile": {
 				"name": "helpers/helper2.js",
 				"start": 7,
-				"end": 20,
+				"end": 17,
 				"startLoc": {
 					"line": 7,
 					"column": 9
 				},
 				"endLoc": {
-					"line": 20,
+					"line": 17,
 					"column": 6
 				}
 			},
@@ -34,7 +34,7 @@
 		}
 	],
 	"statistics": {
-		"detectionDate": "2020-05-10T14:34:47.038Z",
+		"detectionDate": "2020-05-10T14:37:43.033Z",
 		"formats": {
 			"json": {
 				"sources": {
@@ -48,7 +48,7 @@
 						"newClones": 0
 					},
 					"package.json": {
-						"lines": 21,
+						"lines": 23,
 						"sources": 1,
 						"clones": 0,
 						"duplicatedLines": 0,
@@ -58,7 +58,7 @@
 					}
 				},
 				"total": {
-					"lines": 150,
+					"lines": 152,
 					"sources": 2,
 					"clones": 0,
 					"duplicatedLines": 0,
@@ -70,11 +70,11 @@
 			"javascript": {
 				"sources": {
 					"helpers/helper2.js": {
-						"lines": 20,
+						"lines": 17,
 						"sources": 1,
 						"clones": 2,
-						"duplicatedLines": 26,
-						"percentage": 130,
+						"duplicatedLines": 20,
+						"percentage": 117.65,
 						"newDuplicatedLines": 0,
 						"newClones": 0
 					},
@@ -107,22 +107,22 @@
 					}
 				},
 				"total": {
-					"lines": 82,
+					"lines": 79,
 					"sources": 4,
 					"clones": 1,
-					"duplicatedLines": 13,
-					"percentage": 15.85,
+					"duplicatedLines": 10,
+					"percentage": 12.66,
 					"newDuplicatedLines": 0,
 					"newClones": 0
 				}
 			}
 		},
 		"total": {
-			"lines": 232,
+			"lines": 231,
 			"sources": 6,
 			"clones": 1,
-			"duplicatedLines": 13,
-			"percentage": 5.6,
+			"duplicatedLines": 10,
+			"percentage": 4.33,
 			"newDuplicatedLines": 0,
 			"newClones": 0
 		}

@@ -1,40 +1,7 @@
 {
-	"duplicates": [
-		{
-			"format": "javascript",
-			"lines": 10,
-			"fragment": "console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n    }",
-			"tokens": 0,
-			"firstFile": {
-				"name": "helpers/helper2.js",
-				"start": 7,
-				"end": 16,
-				"startLoc": {
-					"line": 7,
-					"column": 9
-				},
-				"endLoc": {
-					"line": 16,
-					"column": 6
-				}
-			},
-			"secondFile": {
-				"name": "helpers/helper2.js",
-				"start": 6,
-				"end": 15,
-				"startLoc": {
-					"line": 6,
-					"column": 9
-				},
-				"endLoc": {
-					"line": 15,
-					"column": 16
-				}
-			}
-		}
-	],
+	"duplicates": [],
 	"statistics": {
-		"detectionDate": "2020-05-10T14:39:06.061Z",
+		"detectionDate": "2020-05-10T14:40:03.058Z",
 		"formats": {
 			"json": {
 				"sources": {
@@ -70,11 +37,11 @@
 			"javascript": {
 				"sources": {
 					"helpers/helper2.js": {
-						"lines": 16,
+						"lines": 15,
 						"sources": 1,
-						"clones": 2,
-						"duplicatedLines": 18,
-						"percentage": 112.5,
+						"clones": 0,
+						"duplicatedLines": 0,
+						"percentage": 0,
 						"newDuplicatedLines": 0,
 						"newClones": 0
 					},
@@ -107,22 +74,22 @@
 					}
 				},
 				"total": {
-					"lines": 78,
+					"lines": 77,
 					"sources": 4,
-					"clones": 1,
-					"duplicatedLines": 9,
-					"percentage": 11.54,
+					"clones": 0,
+					"duplicatedLines": 0,
+					"percentage": 0,
 					"newDuplicatedLines": 0,
 					"newClones": 0
 				}
 			}
 		},
 		"total": {
-			"lines": 230,
+			"lines": 229,
 			"sources": 6,
-			"clones": 1,
-			"duplicatedLines": 9,
-			"percentage": 3.91,
+			"clones": 0,
+			"duplicatedLines": 0,
+			"percentage": 0,
 			"newDuplicatedLines": 0,
 			"newClones": 0
 		}

@@ -14,8 +14,5 @@ module.exports = {
         console.log("This is a helper 1");
         console.log("This is a helper 1");
         console.log("This is a helper 1");
-        console.log("This is a helper 1");
-        console.log("This is a helper 1");
-        console.log("This is a helper 1");
     }
 }

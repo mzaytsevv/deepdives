@@ -17,6 +17,8 @@
     "minimist": "^1.2.5"
   },
   "husky": {
-    "pre-commit": "npm run-script checker --reject"
+    "hooks" : {
+      "pre-commit": "npm run-script checker --reject"
+    }
   }
 }

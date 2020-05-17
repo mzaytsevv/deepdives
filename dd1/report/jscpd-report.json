@@ -1,12 +1,45 @@
 {
-	"duplicates": [],
+	"duplicates": [
+		{
+			"format": "javascript",
+			"lines": 18,
+			"fragment": "console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n        console.log(\"This is a helper 1\");\n    }",
+			"tokens": 0,
+			"firstFile": {
+				"name": "helpers/helper2.js",
+				"start": 7,
+				"end": 24,
+				"startLoc": {
+					"line": 7,
+					"column": 9
+				},
+				"endLoc": {
+					"line": 24,
+					"column": 6
+				}
+			},
+			"secondFile": {
+				"name": "helpers/helper2.js",
+				"start": 6,
+				"end": 15,
+				"startLoc": {
+					"line": 6,
+					"column": 9
+				},
+				"endLoc": {
+					"line": 15,
+					"column": 16
+				}
+			}
+		}
+	],
 	"statistics": {
-		"detectionDate": "2020-05-10T14:40:13.993Z",
+		"detectionDate": "2020-05-10T14:52:42.217Z",
 		"formats": {
 			"json": {
 				"sources": {
 					"report/jscpd-report.json": {
-						"lines": 96,
+						"lines": 129,
 						"sources": 1,
 						"clones": 0,
 						"duplicatedLines": 0,
@@ -25,7 +58,7 @@
 					}
 				},
 				"total": {
-					"lines": 119,
+					"lines": 152,
 					"sources": 2,
 					"clones": 0,
 					"duplicatedLines": 0,
@@ -37,11 +70,11 @@
 			"javascript": {
 				"sources": {
 					"helpers/helper2.js": {
-						"lines": 15,
+						"lines": 24,
 						"sources": 1,
-						"clones": 0,
-						"duplicatedLines": 0,
-						"percentage": 0,
+						"clones": 2,
+						"duplicatedLines": 34,
+						"percentage": 141.67,
 						"newDuplicatedLines": 0,
 						"newClones": 0
 					},
@@ -64,7 +97,7 @@
 						"newClones": 0
 					},
 					"checker.js": {
-						"lines": 53,
+						"lines": 56,
 						"sources": 1,
 						"clones": 0,
 						"duplicatedLines": 0,
@@ -74,22 +107,22 @@
 					}
 				},
 				"total": {
-					"lines": 77,
+					"lines": 89,
 					"sources": 4,
-					"clones": 0,
-					"duplicatedLines": 0,
-					"percentage": 0,
+					"clones": 1,
+					"duplicatedLines": 17,
+					"percentage": 19.1,
 					"newDuplicatedLines": 0,
 					"newClones": 0
 				}
 			}
 		},
 		"total": {
-			"lines": 196,
+			"lines": 241,
 			"sources": 6,
-			"clones": 0,
-			"duplicatedLines": 0,
-			"percentage": 0,
+			"clones": 1,
+			"duplicatedLines": 17,
+			"percentage": 7.05,
 			"newDuplicatedLines": 0,
 			"newClones": 0
 		}

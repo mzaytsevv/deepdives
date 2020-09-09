@@ -1,0 +1,15 @@
+ 
+Last login: Fri Sep  4 02:40:38 2020 from 10.212.255.245
+
+Exinda System
+
+exinda-a40076 > show whoami
+[?1h=Current user:   admin
+Full name:      System Administrator
+Auth method:    local
+Capabilities:   admin
+Account status: Password set
+[K[?1l>exinda-a40076 > en
+exinda-a40076 # config t
+exinda-a40076 (config) # no monitor dual-bridge-bypass
+exinda-a40076 (config) # 

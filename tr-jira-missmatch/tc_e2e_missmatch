@@ -1,0 +1,2950 @@
+25768519:Automated -> HAND-1554:Open
+20811007:Automated -> HAND-489:Dependency Block
+20811008:Automated -> HAND-489:Dependency Block
+20811009:Automated -> HAND-489:Dependency Block
+20811006:Automated -> HAND-489:Dependency Block
+20811016:Automated -> HAND-489:Dependency Block
+20811017:Automated -> HAND-489:Dependency Block
+21303017:Automated -> HAND-577:Dependency Block
+21303038:Automated -> HAND-577:Dependency Block
+21303052:Automated -> HAND-577:Dependency Block
+21303059:Automated -> HAND-577:Dependency Block
+21303069:Automated -> HAND-577:Dependency Block
+21303074:Automated -> HAND-577:Dependency Block
+21303111:Automated -> HAND-577:Dependency Block
+25786902:Automated -> HAND-2899:Open
+19723019:Automated -> ACID-19136:Cancelled
+19318587:Automated -> ACID-19136:Cancelled
+19723378:Automated -> ACID-19136:Cancelled
+19722945:Automated -> ACID-19136:Cancelled
+19723365:Automated -> ACID-19136:Cancelled
+19723401:Automated -> ACID-19136:Cancelled
+19723409:Automated -> ACID-19136:Cancelled
+20052269:Automated -> ACID-19641:Cancelled
+20052501:Automated -> ACID-19641:Cancelled
+20052514:Automated -> ACID-19641:Cancelled
+20085100:Automated -> ACID-19641:Cancelled
+20085121:Automated -> ACID-19641:Cancelled
+20085130:Automated -> ACID-19641:Cancelled
+20085135:Automated -> ACID-19641:Cancelled
+20085155:Automated -> ACID-19641:Cancelled
+20085162:Automated -> ACID-19641:Cancelled
+20085251:Automated -> ACID-19641:Cancelled
+20085266:Automated -> ACID-19641:Cancelled
+20085290:Automated -> ACID-19641:Cancelled
+20085491:Automated -> ACID-19641:Cancelled
+20085519:Automated -> ACID-19641:Cancelled
+7671148:Automated -> CRM-55631:Open
+1123688:Automated -> GFIA-3580:Closed
+1123633:Automated -> GFIA-9200:Closed
+1123634:Automated -> GFIA-9200:Closed
+1123639:Automated -> GFIA-9200:Closed
+1123654:Automated -> GFIA-9200:Closed
+1123658:Automated -> GFIA-3580:Closed
+1123659:Automated -> GFIA-3580:Closed
+8952570:Automated -> GFIA-9200:Closed
+1123645:Automated -> GFIA-4347:Released
+1123741:Automated -> GFIA-3580:Closed
+1187950:Automated -> GFIA-2439:Closed
+9497508:Automated -> GFIA-9200:Closed
+9497782:Automated -> GFIA-9200:Closed
+1264992:Automated -> GFIA-3580:Closed
+1266871:Automated -> GFIA-5111:Cancelled
+1285255:Automated -> GFIA-3580:Closed
+1329516:Automated -> GFIA-3580:Closed
+1499610:Automated -> GFIA-3580:Closed
+2718688:Automated -> GFIA-2378:Released
+25787082:Automated -> GFIA-4752:Cancelled
+1157765:Automated -> GFIA-3580:Closed
+1157766:Automated -> GFIA-3580:Closed
+1157767:Automated -> GFIA-3580:Closed
+1157768:Automated -> GFIA-3580:Closed
+1157759:Automated -> GFIA-3580:Closed
+25733560:Automated -> GFIA-10899:Cancelled
+25735210:Automated -> GFIA-5478:Cancelled
+25734160:Automated -> GFIA-10237:Automation Backlog
+25862160:Automated -> GFIA-9083:Open
+25894495:Automated -> GFIA-9286:Automation Backlog
+25895047:Automated -> GFIA-13460:Open
+25726571:Automated -> GFIA-9438:Cancelled
+25746118:Automated -> GFIA-6843:Automation Backlog
+26056613:Automated -> GFIA-7593:Automation Backlog
+26086246:Automated -> GFIA-7590:Dependency Block
+26086659:Automated -> GFIA-10788:Automation Backlog
+26132192:Automated -> GFIA-6874:Automation Backlog
+26139921:Automated -> GFIA-15070:Dependency Block
+26140279:Automated -> GFIA-15072:Dependency Block
+26145579:Automated -> GFIA-15341:Automation Backlog
+26329983:Automated -> GFIA-6072:Open
+26332715:Automated -> GFIA-17256:Open
+26348864:Automated -> GFIA-4644:Automation Backlog
+26397508:Automated -> GFIA-5233:Automation Backlog
+25722576:Automated -> JCLDALL-25488:Pending TC Replacement
+25732416:Automated -> JCLDALL-25491:Open
+25740465:Automated -> JCLDALL-16372:Cancelled
+25728024:Automated -> JCLDALL-28422:Cancelled
+25731701:Automated -> JCLDALL-28416:Cancelled
+25738202:Automated -> JCLDALL-28890:Cancelled
+25750814:Automated -> JCLDALL-29198:Cancelled
+25777623:Automated -> JCLDALL-29036:Pending TC Replacement
+26081841:Automated -> JCLDALL-25588:Open
+26146662:Automated -> JCLDALL-44269:Automation Backlog
+22939526:Automated -> KNOV-520:Cancelled
+25744541:Automated -> KNOV-96:Failed E2E Review
+22907547:Automated -> KNOV-540:Open
+25742022:Automated -> KNOV-2032:Failed E2E Review
+25748496:Automated -> KNOV-95:Failed E2E Review
+25746235:Automated -> KNOV-81:Backlog
+26074698:Automated -> KNOV-155:Automation Backlog
+26075510:Automated -> KNOV-492:Open
+26174410:Automated -> KNOV-158:Automation Backlog
+26193547:Automated -> KNOV-6095:Automation Backlog
+26471014:Automated -> KNOV-120:Cancelled
+25746506:Automated -> CODEGRAPH-3037:Cancelled
+25766790:Automated -> CODEGRAPH-3034:Cancelled
+23184410:Automated -> CSRV-6234:Released
+25785239:Automated -> CSRV-10313:Automation Backlog
+25735686:Automated -> CSRV-4950:Automation Backlog
+25738048:Automated -> CSRV-4613:Backlog
+25739888:Automated -> CSRV-6995:Automation Backlog
+25741475:Automated -> CSRV-12230:Cancelled
+25741729:Automated -> CSRV-12231:Cancelled
+25741751:Automated -> CSRV-12232:Cancelled
+25750717:Automated -> CSRV-12229:Cancelled
+25736078:Automated -> CSRV-10576:Backlog
+25744824:Automated -> CSRV-12410:Cancelled
+26085762:Automated -> CSRV-15506:Backlog
+26191014:Automated -> CSRV-5799:E2E Definition
+1099035:Automated -> CONTROL-24948:Cancelled
+15955700:Automated -> CONTROL-23961:Cancelled
+20186014:Automated -> CONTROL-23961:Cancelled
+15955709:Automated -> CONTROL-23961:Cancelled
+15955710:Automated -> CONTROL-23961:Cancelled
+15955711:Automated -> CONTROL-23961:Cancelled
+15955712:Automated -> CONTROL-23961:Cancelled
+15996989:Automated -> CONTROL-23961:Cancelled
+14491283:Automated -> CONTROL-22779:Delivered
+14806633:Automated -> CONTROL-23542:Cancelled
+14806632:Automated -> CONTROL-23542:Cancelled
+14821701:Automated -> CONTROL-23542:Cancelled
+14806660:Automated -> CONTROL-23542:Cancelled
+14906093:Automated -> CONTROL-23542:Cancelled
+25732923:Automated -> CONTROL-25090:Automation Backlog
+25726324:Automated -> SONIC-19160:Open
+25757695:Automated -> SONIC-22461:Automation Backlog
+20988330:Automated -> SONIC-17139:Cancelled
+20988337:Automated -> SONIC-17139:Cancelled
+20988331:Automated -> SONIC-17139:Cancelled
+20988339:Automated -> SONIC-17139:Cancelled
+20988332:Automated -> SONIC-17139:Cancelled
+20988333:Automated -> SONIC-17139:Cancelled
+20988511:Automated -> SONIC-17139:Cancelled
+21906943:Automated -> SONIC-17383:Cancelled
+22087848:Automated -> SONIC-17383:Cancelled
+22087849:Automated -> SONIC-17383:Cancelled
+21906942:Automated -> SONIC-17383:Cancelled
+22087850:Automated -> SONIC-17383:Cancelled
+22423331:Automated -> SONIC-17388:Cancelled
+22423329:Automated -> SONIC-17388:Cancelled
+22423332:Automated -> SONIC-17388:Cancelled
+22423335:Automated -> SONIC-17388:Cancelled
+22423336:Automated -> SONIC-17388:Cancelled
+22423333:Automated -> SONIC-17388:Cancelled
+22423334:Automated -> SONIC-17388:Cancelled
+22457863:Automated -> SONIC-18692:Open
+22458429:Automated -> SONIC-18692:Open
+22457864:Automated -> SONIC-18692:Open
+22457948:Automated -> SONIC-18692:Open
+22457865:Automated -> SONIC-18692:Open
+22458435:Automated -> SONIC-18692:Open
+22458445:Automated -> SONIC-18692:Open
+22458446:Automated -> SONIC-18692:Open
+22458447:Automated -> SONIC-18692:Open
+22458460:Automated -> SONIC-18692:Open
+25786818:Automated -> ACTA-49318:Automation Backlog
+25758120:Automated -> ACTA-48719:Backlog
+25765975:Automated -> ACTA-45264:Automation Backlog
+25765747:Automated -> ACTA-45261:Automation Backlog
+25894762:Automated -> ACTA-51155:Automation Backlog
+25731318:Automated -> ACTA-48766:Automation Backlog
+25761575:Automated -> ACTA-48555:In Writing
+25767061:Automated -> ACTA-49260:Automation Backlog
+25804180:Automated -> ACTA-49255:Automation Backlog
+25740571:Automated -> ACTA-48459:Automation Backlog
+25784510:Automated -> ACTA-51581:Automation Backlog
+25766691:Automated -> ACTA-50795:Backlog
+25766799:Automated -> ACTA-50788:Backlog
+25739988:Automated -> ACTA-50674:Automation Backlog
+25740182:Automated -> ACTA-50676:Automation Backlog
+25768863:Automated -> ACTA-45425:Automation Backlog
+20568162:Automated -> ACTA-44597:Cancelled
+20568166:Automated -> ACTA-44597:Cancelled
+20568172:Automated -> ACTA-44597:Cancelled
+20568174:Automated -> ACTA-44597:Cancelled
+20568176:Automated -> ACTA-44597:Cancelled
+20569215:Automated -> ACTA-44597:Cancelled
+20569217:Automated -> ACTA-44597:Cancelled
+20569220:Automated -> ACTA-44597:Cancelled
+20569231:Automated -> ACTA-44597:Cancelled
+22283054:Automated -> ACTA-47286:Closed
+26120622:Automated -> ACTA-52800:Automation Backlog
+26152957:Automated -> ACTA-45532:Automation Backlog
+26154320:Automated -> ACTA-46158:Automation Backlog
+26193359:Automated -> ACTA-56606:Automation Backlog
+26286762:Automated -> ACTA-45269:Automation Backlog
+26296180:Automated -> ACTA-55432:Automation Backlog
+26297484:Automated -> ACTA-51608:Automation Backlog
+26297833:Automated -> ACTA-52765:Automation Backlog
+1046047:Automated -> ADCM-10514:Released
+1046050:Automated -> ADCM-10514:Released
+1046051:Automated -> ADCM-10514:Released
+1046052:Automated -> ADCM-10514:Released
+25769199:Automated -> ADCM-11446:Automation Backlog
+26067424:Automated -> ADCM-20046:In Writing
+25775828:Automated -> ADCM-17980:Automation Backlog
+25803933:Automated -> ADCM-16088:Dependency Block
+26120828:Automated -> ADCM-13277:Backlog
+26148035:Automated -> ADCM-20919:Automation Backlog
+26122933:Automated -> ADCM-16088:Dependency Block
+9287528:Automated -> DNN-19529:Closed
+7817655:Automated -> DNN-18264:Released
+10178234:Automated -> DNN-28310:Released
+8288627:Automated -> DNN-28951:Released
+15242733:Automated -> DNN-21504:Released
+15242769:Automated -> DNN-21504:Released
+18410482:Automated -> DNN-18264:Released
+18436195:Automated -> DNN-21554:Released
+18436197:Automated -> DNN-21554:Released
+18436196:Automated -> DNN-21554:Released
+18468368:Automated -> DNN-23633:Released
+19384782:Automated -> DNN-23633:Released
+9931101:Automated -> DNN-28332:Released
+16214615:Automated -> DNN-23633:Released
+16065692:Automated -> DNN-21749:Cancelled
+16065683:Automated -> DNN-21749:Cancelled
+22893465:Automated -> DNN-27837:Open
+22893466:Automated -> DNN-27837:Open
+22893468:Automated -> DNN-27837:Open
+22893470:Automated -> DNN-27837:Open
+22893471:Automated -> DNN-27837:Open
+22893472:Automated -> DNN-27837:Open
+22893473:Automated -> DNN-27837:Open
+22893474:Automated -> DNN-27837:Open
+22893475:Automated -> DNN-27837:Open
+22893477:Automated -> DNN-27837:Open
+22893478:Automated -> DNN-27837:Open
+9802984:Automated -> DNN-27295:Released
+9802985:Automated -> DNN-27295:Released
+16216832:Automated -> DNN-21811:Cancelled
+16215871:Automated -> DNN-21811:Cancelled
+16215872:Automated -> DNN-21811:Cancelled
+16215869:Automated -> DNN-21811:Cancelled
+16065688:Automated -> DNN-21749:Cancelled
+16248138:Automated -> DNN-21809:Cancelled
+16248141:Automated -> DNN-21809:Cancelled
+16248142:Automated -> DNN-21809:Cancelled
+18113204:Automated -> DNN-21809:Cancelled
+18113205:Automated -> DNN-21809:Cancelled
+16918153:Automated -> DNN-21807:Open
+16918154:Automated -> DNN-21807:Open
+16918155:Automated -> DNN-21807:Open
+16918157:Automated -> DNN-21807:Open
+17053189:Automated -> DNN-21807:Open
+16918275:Automated -> DNN-21806:Cancelled
+16919352:Automated -> DNN-21806:Cancelled
+16919356:Automated -> DNN-21806:Cancelled
+17052158:Automated -> DNN-21806:Cancelled
+17052160:Automated -> DNN-21806:Cancelled
+16937427:Automated -> DNN-21805:Cancelled
+16937428:Automated -> DNN-21805:Cancelled
+17053136:Automated -> DNN-21805:Cancelled
+17053143:Automated -> DNN-21805:Cancelled
+17053144:Automated -> DNN-21805:Cancelled
+17441220:Automated -> DNN-21758:Cancelled
+17441221:Automated -> DNN-21758:Cancelled
+17441222:Automated -> DNN-21758:Cancelled
+17604035:Automated -> DNN-21758:Cancelled
+17615081:Automated -> DNN-21758:Cancelled
+16989332:Automated -> DNN-21796:Open
+16989337:Automated -> DNN-21796:Open
+18131278:Automated -> DNN-21796:Open
+18131279:Automated -> DNN-21796:Open
+16991277:Automated -> DNN-21796:Open
+16412028:Automated -> DNN-21785:Cancelled
+16412063:Automated -> DNN-21785:Cancelled
+16412068:Automated -> DNN-21785:Cancelled
+16412069:Automated -> DNN-21785:Cancelled
+16412070:Automated -> DNN-21785:Cancelled
+17053939:Automated -> DNN-21785:Cancelled
+17940203:Automated -> DNN-21785:Cancelled
+17940772:Automated -> DNN-21785:Cancelled
+16231453:Automated -> DNN-21745:Cancelled
+16231456:Automated -> DNN-21745:Cancelled
+16231458:Automated -> DNN-21745:Cancelled
+16231478:Automated -> DNN-21745:Cancelled
+16231867:Automated -> DNN-21747:Cancelled
+16231871:Automated -> DNN-21747:Cancelled
+16231872:Automated -> DNN-21747:Cancelled
+16231873:Automated -> DNN-21747:Cancelled
+16271140:Automated -> DNN-21748:Cancelled
+16271654:Automated -> DNN-21748:Cancelled
+16271658:Automated -> DNN-21748:Cancelled
+16271659:Automated -> DNN-21748:Cancelled
+16271661:Automated -> DNN-21748:Cancelled
+16767953:Automated -> DNN-21790:Cancelled
+16771171:Automated -> DNN-21790:Cancelled
+16771173:Automated -> DNN-21790:Cancelled
+16768227:Automated -> DNN-21790:Cancelled
+16768410:Automated -> DNN-21790:Cancelled
+16794218:Automated -> DNN-21760:Open
+16794220:Automated -> DNN-21760:Open
+16794221:Automated -> DNN-21760:Open
+16877419:Automated -> DNN-21760:Open
+17440263:Automated -> DNN-21765:Open
+17456721:Automated -> DNN-21765:Open
+17457652:Automated -> DNN-21765:Open
+17457653:Automated -> DNN-21765:Open
+17455906:Automated -> DNN-21765:Open
+17019449:Automated -> DNN-21803:Cancelled
+17019646:Automated -> DNN-21803:Cancelled
+17019652:Automated -> DNN-21803:Cancelled
+17020040:Automated -> DNN-21803:Cancelled
+17020041:Automated -> DNN-21803:Cancelled
+17439734:Automated -> DNN-21784:Open
+17439736:Automated -> DNN-21784:Open
+17440248:Automated -> DNN-21784:Open
+17440249:Automated -> DNN-21784:Open
+17440251:Automated -> DNN-21784:Open
+17440253:Automated -> DNN-21784:Open
+17597484:Automated -> DNN-21783:Pending TC Replacement
+17507077:Automated -> DNN-21783:Pending TC Replacement
+17599937:Automated -> DNN-21783:Pending TC Replacement
+17600060:Automated -> DNN-21783:Pending TC Replacement
+17600061:Automated -> DNN-21783:Pending TC Replacement
+16257468:Automated -> DNN-23554:Cancelled
+16257469:Automated -> DNN-23554:Cancelled
+16257489:Automated -> DNN-23554:Cancelled
+16257490:Automated -> DNN-23554:Cancelled
+16257491:Automated -> DNN-23554:Cancelled
+18093713:Automated -> DNN-23784:Cancelled
+18093714:Automated -> DNN-23784:Cancelled
+18093715:Automated -> DNN-23784:Cancelled
+17050550:Automated -> DNN-21749:Cancelled
+18093807:Automated -> DNN-23785:Cancelled
+18093809:Automated -> DNN-23785:Cancelled
+18093811:Automated -> DNN-23785:Cancelled
+18093848:Automated -> DNN-23786:Cancelled
+18093849:Automated -> DNN-23786:Cancelled
+18093853:Automated -> DNN-23786:Cancelled
+17050551:Automated -> DNN-21749:Cancelled
+16065691:Automated -> DNN-21749:Cancelled
+17053257:Automated -> DNN-22681:Open
+18286260:Automated -> DNN-22681:Open
+18270201:Automated -> DNN-22681:Open
+18269944:Automated -> DNN-22681:Open
+18269956:Automated -> DNN-22681:Open
+16231411:Automated -> DNN-22349:Open
+16214623:Automated -> DNN-22345:Open
+16214624:Automated -> DNN-22345:Open
+16214625:Automated -> DNN-22345:Open
+16214626:Automated -> DNN-22345:Open
+16228557:Automated -> DNN-22346:Open
+16228558:Automated -> DNN-22346:Open
+16228559:Automated -> DNN-22346:Open
+16231412:Automated -> DNN-22346:Open
+22907625:Automated -> DNN-27903:Cancelled
+22907626:Automated -> DNN-27903:Cancelled
+22907627:Automated -> DNN-27903:Cancelled
+22907628:Automated -> DNN-27903:Cancelled
+22907629:Automated -> DNN-27903:Cancelled
+22907630:Automated -> DNN-27903:Cancelled
+22907631:Automated -> DNN-27903:Cancelled
+22907632:Automated -> DNN-27903:Cancelled
+22907633:Automated -> DNN-27903:Cancelled
+22907634:Automated -> DNN-27903:Cancelled
+22907635:Automated -> DNN-27903:Cancelled
+22907637:Automated -> DNN-27903:Cancelled
+19611901:Automated -> DNN-25170:Cancelled
+19612803:Automated -> DNN-24884:Cancelled
+19612805:Automated -> DNN-24884:Cancelled
+20161726:Automated -> DNN-25043:Cancelled
+20182775:Automated -> DNN-25043:Cancelled
+19318564:Automated -> DNN-23426:Released
+19582919:Automated -> DNN-24886:Open
+19582942:Automated -> DNN-24886:Open
+19583085:Automated -> DNN-24886:Open
+19583066:Automated -> DNN-24886:Open
+19582962:Automated -> DNN-24886:Open
+25812464:Automated -> DNN-30310:E2E PCA Review
+25754612:Automated -> DNN-33170:E2E PCA Review
+25786861:Automated -> DNN-34029:Automation Backlog
+17441193:Automated -> DNN-22780:Open
+17441194:Automated -> DNN-22780:Open
+17650464:Automated -> DNN-22780:Open
+17650465:Automated -> DNN-22780:Open
+17650466:Automated -> DNN-22780:Open
+17650483:Automated -> DNN-22825:Open
+17650484:Automated -> DNN-22825:Open
+17650487:Automated -> DNN-22825:Open
+17650488:Automated -> DNN-22825:Open
+17650509:Automated -> DNN-22825:Open
+17650510:Automated -> DNN-22825:Open
+17650581:Automated -> DNN-23001:Open
+17650582:Automated -> DNN-23001:Open
+17650585:Automated -> DNN-23001:Open
+17650586:Automated -> DNN-23001:Open
+17650638:Automated -> DNN-23003:Open
+17650639:Automated -> DNN-23003:Open
+17650641:Automated -> DNN-23003:Open
+17650643:Automated -> DNN-23003:Open
+17650644:Automated -> DNN-23003:Open
+17681422:Automated -> DNN-23005:Open
+17681423:Automated -> DNN-23005:Open
+17681424:Automated -> DNN-23005:Open
+17681456:Automated -> DNN-23005:Open
+17681447:Automated -> DNN-23005:Open
+17681450:Automated -> DNN-23002:Open
+17681451:Automated -> DNN-23002:Open
+17681452:Automated -> DNN-23002:Open
+17681454:Automated -> DNN-23002:Open
+17681455:Automated -> DNN-23002:Open
+16231382:Automated -> DNN-22349:Open
+16231409:Automated -> DNN-22349:Open
+16231481:Automated -> DNN-22349:Open
+16231484:Automated -> DNN-22349:Open
+25771700:Automated -> DNN-25307:Automation Backlog
+26084035:Automated -> DNN-24982:Blocked
+26084121:Automated -> DNN-34991:Blocked
+26145527:Automated -> DNN-36485:Blocked
+26147315:Automated -> DNN-36529:Open
+26339017:Automated -> DNN-34079:E2E PCA Review
+22930429:Automated -> KMECN-15594:Cancelled
+22932175:Automated -> KMECN-15594:Cancelled
+22932492:Automated -> KMECN-15594:Cancelled
+22932551:Automated -> KMECN-15594:Cancelled
+22932576:Automated -> KMECN-15594:Cancelled
+22932581:Automated -> KMECN-15594:Cancelled
+22932587:Automated -> KMECN-15594:Cancelled
+19401538:Automated -> KMECN-13647:Cancelled
+19401539:Automated -> KMECN-13647:Cancelled
+19401540:Automated -> KMECN-13647:Cancelled
+19401541:Automated -> KMECN-13647:Cancelled
+19490175:Automated -> KMECN-13647:Cancelled
+19401685:Automated -> KMECN-13648:Cancelled
+19401686:Automated -> KMECN-13648:Cancelled
+19401687:Automated -> KMECN-13648:Cancelled
+19401688:Automated -> KMECN-13648:Cancelled
+19401689:Automated -> KMECN-13648:Cancelled
+19401690:Automated -> KMECN-13648:Cancelled
+19401691:Automated -> KMECN-13648:Cancelled
+19401692:Automated -> KMECN-13648:Cancelled
+19401694:Automated -> KMECN-13648:Cancelled
+19401695:Automated -> KMECN-13648:Cancelled
+19401696:Automated -> KMECN-13648:Cancelled
+19401697:Automated -> KMECN-13648:Cancelled
+19401699:Automated -> KMECN-13648:Cancelled
+19021362:Automated -> KMECN-13650:Cancelled
+19730391:Automated -> KMECN-13650:Cancelled
+19021364:Automated -> KMECN-13650:Cancelled
+19021365:Automated -> KMECN-13650:Cancelled
+19730531:Automated -> KMECN-13650:Cancelled
+19097912:Automated -> KMECN-13649:Cancelled
+19097919:Automated -> KMECN-13649:Cancelled
+19097920:Automated -> KMECN-13649:Cancelled
+19097922:Automated -> KMECN-13649:Cancelled
+19097926:Automated -> KMECN-13649:Cancelled
+19097950:Automated -> KMECN-13649:Cancelled
+19097960:Automated -> KMECN-13649:Cancelled
+19381000:Automated -> KMECN-13784:Cancelled
+19381002:Automated -> KMECN-13784:Cancelled
+19381003:Automated -> KMECN-13784:Cancelled
+19381005:Automated -> KMECN-13784:Cancelled
+19381006:Automated -> KMECN-13784:Cancelled
+19674003:Automated -> KMECN-14638:Cancelled
+19674011:Automated -> KMECN-14638:Cancelled
+19674013:Automated -> KMECN-14638:Cancelled
+19674016:Automated -> KMECN-14638:Cancelled
+19674017:Automated -> KMECN-14638:Cancelled
+19674019:Automated -> KMECN-14638:Cancelled
+19674048:Automated -> KMECN-14638:Cancelled
+19674047:Automated -> KMECN-14638:Cancelled
+19674020:Automated -> KMECN-14638:Cancelled
+19674049:Automated -> KMECN-14638:Cancelled
+19674055:Automated -> KMECN-14638:Cancelled
+19381027:Automated -> KMECN-13864:Cancelled
+19381029:Automated -> KMECN-13864:Cancelled
+19381030:Automated -> KMECN-13864:Cancelled
+19381036:Automated -> KMECN-13864:Cancelled
+19381037:Automated -> KMECN-13864:Cancelled
+19340061:Automated -> KMECN-13654:Cancelled
+19340064:Automated -> KMECN-13654:Cancelled
+21637363:Automated -> KMECN-13654:Cancelled
+19379244:Automated -> KMECN-13654:Cancelled
+21637949:Automated -> KMECN-13654:Cancelled
+19381305:Automated -> KMECN-13655:Cancelled
+19381307:Automated -> KMECN-13655:Cancelled
+19381308:Automated -> KMECN-13655:Cancelled
+19381309:Automated -> KMECN-13655:Cancelled
+19381310:Automated -> KMECN-13655:Cancelled
+19381311:Automated -> KMECN-13655:Cancelled
+19381312:Automated -> KMECN-13655:Cancelled
+19381317:Automated -> KMECN-13656:Cancelled
+19381318:Automated -> KMECN-13656:Cancelled
+19381319:Automated -> KMECN-13656:Cancelled
+19381320:Automated -> KMECN-13656:Cancelled
+19381321:Automated -> KMECN-13656:Cancelled
+19279451:Automated -> KMECN-13653:Cancelled
+19308760:Automated -> KMECN-13653:Cancelled
+19308864:Automated -> KMECN-13653:Cancelled
+19308916:Automated -> KMECN-13653:Cancelled
+19308938:Automated -> KMECN-13653:Cancelled
+19308944:Automated -> KMECN-13653:Cancelled
+19308953:Automated -> KMECN-13653:Cancelled
+19381390:Automated -> KMECN-13884:Cancelled
+19381391:Automated -> KMECN-13884:Cancelled
+19381392:Automated -> KMECN-13884:Cancelled
+19381393:Automated -> KMECN-13884:Cancelled
+19381394:Automated -> KMECN-13884:Cancelled
+19381395:Automated -> KMECN-13884:Cancelled
+19384249:Automated -> KMECN-13875:Cancelled
+19384250:Automated -> KMECN-13875:Cancelled
+19384252:Automated -> KMECN-13875:Cancelled
+19386912:Automated -> KMECN-13875:Cancelled
+19386915:Automated -> KMECN-13875:Cancelled
+19459506:Automated -> KMECN-13878:Cancelled
+19490785:Automated -> KMECN-13878:Cancelled
+19490795:Automated -> KMECN-13878:Cancelled
+19490812:Automated -> KMECN-13878:Cancelled
+19490814:Automated -> KMECN-13878:Cancelled
+19498506:Automated -> KMECN-13878:Cancelled
+19498507:Automated -> KMECN-13878:Cancelled
+19515075:Automated -> KMECN-13878:Cancelled
+19673094:Automated -> KMECN-13866:Cancelled
+19673095:Automated -> KMECN-13866:Cancelled
+19673096:Automated -> KMECN-13866:Cancelled
+19673097:Automated -> KMECN-13866:Cancelled
+19673098:Automated -> KMECN-13866:Cancelled
+19673099:Automated -> KMECN-13866:Cancelled
+19673100:Automated -> KMECN-13866:Cancelled
+19475909:Automated -> KMECN-13877:Cancelled
+19476088:Automated -> KMECN-13877:Cancelled
+19476423:Automated -> KMECN-13877:Cancelled
+19476570:Automated -> KMECN-13877:Cancelled
+19476656:Automated -> KMECN-13877:Cancelled
+19476918:Automated -> KMECN-13877:Cancelled
+19476959:Automated -> KMECN-13877:Cancelled
+19476965:Automated -> KMECN-13877:Cancelled
+19388029:Automated -> KMECN-13876:Cancelled
+19388033:Automated -> KMECN-13876:Cancelled
+19388431:Automated -> KMECN-13876:Cancelled
+19396354:Automated -> KMECN-13876:Cancelled
+19399599:Automated -> KMECN-13876:Cancelled
+19399603:Automated -> KMECN-13876:Cancelled
+19730614:Automated -> KMECN-13879:Cancelled
+19730615:Automated -> KMECN-13879:Cancelled
+19730616:Automated -> KMECN-13879:Cancelled
+19730617:Automated -> KMECN-13879:Cancelled
+19730618:Automated -> KMECN-13879:Cancelled
+19730621:Automated -> KMECN-13879:Cancelled
+19730622:Automated -> KMECN-13879:Cancelled
+19381403:Automated -> KMECN-13883:Cancelled
+19381404:Automated -> KMECN-13883:Cancelled
+19381405:Automated -> KMECN-13883:Cancelled
+19381415:Automated -> KMECN-13883:Cancelled
+19381416:Automated -> KMECN-13883:Cancelled
+19381506:Automated -> KMECN-13666:Cancelled
+19381518:Automated -> KMECN-13666:Cancelled
+19381532:Automated -> KMECN-13666:Cancelled
+19381533:Automated -> KMECN-13666:Cancelled
+19381534:Automated -> KMECN-13666:Cancelled
+19381535:Automated -> KMECN-13666:Cancelled
+19401373:Automated -> KMECN-14067:Cancelled
+19401376:Automated -> KMECN-14067:Cancelled
+19405723:Automated -> KMECN-14067:Cancelled
+19405724:Automated -> KMECN-14067:Cancelled
+19405725:Automated -> KMECN-14067:Cancelled
+19041472:Automated -> KMECN-13663:Cancelled
+19041473:Automated -> KMECN-13663:Cancelled
+19041474:Automated -> KMECN-13663:Cancelled
+19041475:Automated -> KMECN-13663:Cancelled
+19041476:Automated -> KMECN-13663:Cancelled
+19385623:Automated -> KMECN-13658:Cancelled
+19385624:Automated -> KMECN-13658:Cancelled
+19385625:Automated -> KMECN-13658:Cancelled
+19385626:Automated -> KMECN-13658:Cancelled
+19385627:Automated -> KMECN-13658:Cancelled
+19385628:Automated -> KMECN-13658:Cancelled
+19385629:Automated -> KMECN-13658:Cancelled
+19385630:Automated -> KMECN-13658:Cancelled
+19385631:Automated -> KMECN-13658:Cancelled
+19385638:Automated -> KMECN-13657:Cancelled
+19385639:Automated -> KMECN-13657:Cancelled
+19385641:Automated -> KMECN-13657:Cancelled
+19385642:Automated -> KMECN-13657:Cancelled
+19385643:Automated -> KMECN-13657:Cancelled
+19385644:Automated -> KMECN-13657:Cancelled
+19386176:Automated -> KMECN-13890:Cancelled
+19386177:Automated -> KMECN-13890:Cancelled
+19386178:Automated -> KMECN-13890:Cancelled
+19386179:Automated -> KMECN-13890:Cancelled
+19386180:Automated -> KMECN-13890:Cancelled
+19386182:Automated -> KMECN-13890:Cancelled
+19386181:Automated -> KMECN-13890:Cancelled
+19400031:Automated -> KMECN-13865:Cancelled
+19400032:Automated -> KMECN-13865:Cancelled
+19400033:Automated -> KMECN-13865:Cancelled
+19400034:Automated -> KMECN-13865:Cancelled
+19402358:Automated -> KMECN-13865:Cancelled
+19587835:Automated -> KMECN-14015:Cancelled
+19588152:Automated -> KMECN-14015:Cancelled
+19588347:Automated -> KMECN-14015:Cancelled
+19588351:Automated -> KMECN-14015:Cancelled
+19588396:Automated -> KMECN-14015:Cancelled
+19590015:Automated -> KMECN-14015:Cancelled
+19591270:Automated -> KMECN-14015:Cancelled
+19593309:Automated -> KMECN-14015:Cancelled
+19593311:Automated -> KMECN-14015:Cancelled
+19593319:Automated -> KMECN-14015:Cancelled
+19536660:Automated -> KMECN-14013:Cancelled
+19536661:Automated -> KMECN-14013:Cancelled
+19536662:Automated -> KMECN-14013:Cancelled
+19536663:Automated -> KMECN-14013:Cancelled
+19536664:Automated -> KMECN-14013:Cancelled
+19536665:Automated -> KMECN-14013:Cancelled
+19536670:Automated -> KMECN-14013:Cancelled
+22415170:Automated -> KMECN-14013:Cancelled
+19612271:Automated -> KMECN-14016:Cancelled
+19612275:Automated -> KMECN-14016:Cancelled
+19612279:Automated -> KMECN-14016:Cancelled
+19612284:Automated -> KMECN-14016:Cancelled
+19612809:Automated -> KMECN-14016:Cancelled
+19612799:Automated -> KMECN-14016:Cancelled
+23968669:Automated -> KMECN-14016:Cancelled
+23968805:Automated -> KMECN-14016:Cancelled
+23968810:Automated -> KMECN-14016:Cancelled
+23968693:Automated -> KMECN-14016:Cancelled
+19749651:Automated -> KMECN-14016:Cancelled
+19612802:Automated -> KMECN-14016:Cancelled
+19720748:Automated -> KMECN-14012:Cancelled
+19720764:Automated -> KMECN-14012:Cancelled
+19720768:Automated -> KMECN-14012:Cancelled
+19720783:Automated -> KMECN-14012:Cancelled
+19720794:Automated -> KMECN-14012:Cancelled
+19707333:Automated -> KMECN-12057:Cancelled
+19707683:Automated -> KMECN-12057:Cancelled
+19723579:Automated -> KMECN-12057:Cancelled
+19723586:Automated -> KMECN-12057:Cancelled
+19723596:Automated -> KMECN-12057:Cancelled
+19014087:Automated -> KMECN-13574:Cancelled
+19014188:Automated -> KMECN-13574:Cancelled
+19048360:Automated -> KMECN-13574:Cancelled
+19048514:Automated -> KMECN-13574:Cancelled
+19048561:Automated -> KMECN-13574:Cancelled
+19049641:Automated -> KMECN-13574:Cancelled
+19051087:Automated -> KMECN-13574:Cancelled
+19119864:Automated -> KMECN-13651:Cancelled
+19120944:Automated -> KMECN-13651:Cancelled
+19122028:Automated -> KMECN-13651:Cancelled
+19122032:Automated -> KMECN-13651:Cancelled
+19123227:Automated -> KMECN-13651:Cancelled
+19051160:Automated -> KMECN-13652:Cancelled
+19051162:Automated -> KMECN-13652:Cancelled
+19051163:Automated -> KMECN-13652:Cancelled
+19062849:Automated -> KMECN-13652:Cancelled
+19062854:Automated -> KMECN-13652:Cancelled
+19340360:Automated -> KMECN-13733:Cancelled
+19340402:Automated -> KMECN-13733:Cancelled
+19349566:Automated -> KMECN-13733:Cancelled
+19349580:Automated -> KMECN-13733:Cancelled
+19319844:Automated -> KMECN-13646:Cancelled
+19320118:Automated -> KMECN-13646:Cancelled
+19321428:Automated -> KMECN-13646:Cancelled
+19322065:Automated -> KMECN-13646:Cancelled
+19350216:Automated -> KMECN-13646:Cancelled
+13700830:Automated -> KMECN-13663:Cancelled
+25739574:Automated -> EXMC-1852:Automation Backlog
+25739266:Automated -> EXMC-2656:Dependency Block
+25739891:Automated -> EXMC-2126:Automation Backlog
+25735672:Automated -> EXMC-2649:Automation Backlog
+25893976:Automated -> EXMC-1769:Automation Backlog
+26123687:Automated -> EXMC-1767:Automation Backlog
+26146915:Automated -> EXMC-3550:Automation Backlog
+25735416:Automated -> EYPP-4265:Open
+25731082:Automated -> EYPP-4141:Automation Backlog
+25726204:Automated -> EYPP-9004:Automation Backlog
+25733803:Automated -> EYPP-9418:Automation Backlog
+25739501:Automated -> EYPP-10788:Automation Backlog
+25722841:Automated -> GFIFM-8661:Cancelled
+25726221:Automated -> GFIFM-5522:Automation Backlog
+25726224:Automated -> GFIFM-7625:Cancelled
+25726232:Automated -> GFIFM-7547:Cancelled
+25726830:Automated -> GFIFM-7492:Cancelled
+25723001:Automated -> GFIFM-4550:Cancelled
+25731621:Automated -> GFIFM-5528:Automation Backlog
+25779971:Automated -> GFIFM-4366:Automation Backlog
+25870970:Automated -> GFIFM-5532:Automation Backlog
+26055394:Automated -> GFIFM-10298:Cancelled
+26055399:Automated -> GFIFM-7987:Cancelled
+26067103:Automated -> GFIFM-7992:Automation Backlog
+25726195:Automated -> GFIFM-4162:Dependency Block
+26058571:Automated -> GFIFM-10366:Backlog
+25726289:Automated -> GFIFM-6753:Cancelled
+25726290:Automated -> GFIFM-6752:Cancelled
+25731105:Automated -> GFIFM-5085:Automation Backlog
+25731597:Automated -> GFIFM-4367:Cancelled
+25726291:Automated -> GFIFM-6755:Cancelled
+25731640:Automated -> GFIFM-6831:Cancelled
+25731650:Automated -> GFIFM-6828:Cancelled
+25731664:Automated -> GFIFM-6830:Cancelled
+25731669:Automated -> GFIFM-6759:Cancelled
+25731679:Automated -> GFIFM-6757:Cancelled
+25733875:Automated -> GFIFM-6829:Cancelled
+25732605:Automated -> GFIFM-5509:Cancelled
+25732611:Automated -> GFIFM-6758:Cancelled
+25784503:Automated -> GFIFM-7562:Cancelled
+25733594:Automated -> GFIFM-6832:Cancelled
+25733598:Automated -> GFIFM-6833:Cancelled
+25733653:Automated -> GFIFM-6756:Cancelled
+25735652:Automated -> GFIFM-7938:Open
+25735654:Automated -> GFIFM-7549:Cancelled
+25735661:Automated -> GFIFM-7546:Cancelled
+25746908:Automated -> GFIFM-7146:Cancelled
+25746929:Automated -> GFIFM-7475:Cancelled
+25765562:Automated -> GFIFM-4276:Cancelled
+25765566:Automated -> GFIFM-6574:Cancelled
+25765568:Automated -> GFIFM-7637:Cancelled
+25784529:Automated -> GFIFM-10010:Cancelled
+25779114:Automated -> GFIFM-4206:Backlog
+25779153:Automated -> GFIFM-4480:Dependency Block
+25779165:Automated -> GFIFM-4899:Dependency Block
+25779202:Automated -> GFIFM-8385:Backlog
+25779489:Automated -> GFIFM-7495:Dependency Block
+25769045:Automated -> GFIFM-4165:Cancelled
+25769064:Automated -> GFIFM-4177:Cancelled
+25769204:Automated -> GFIFM-4166:Cancelled
+25771431:Automated -> GFIFM-4176:Cancelled
+25771442:Automated -> GFIFM-4178:Cancelled
+25735653:Automated -> GFIFM-7604:Open
+25771452:Automated -> GFIFM-4207:Backlog
+25784357:Automated -> GFIFM-7564:Open
+25785241:Automated -> GFIFM-5362:Cancelled
+25871174:Automated -> GFIFM-5521:Automation Backlog
+25771465:Automated -> GFIFM-4218:Cancelled
+25776058:Automated -> GFIFM-4222:Cancelled
+25776063:Automated -> GFIFM-4214:Cancelled
+25776075:Automated -> GFIFM-4223:Cancelled
+25779229:Automated -> GFIFM-7166:Cancelled
+25779234:Automated -> GFIFM-7170:Dependency Block
+25785135:Automated -> GFIFM-5376:Cancelled
+25785137:Automated -> GFIFM-4598:Cancelled
+25786981:Automated -> GFIFM-5364:Automation Backlog
+25799571:Automated -> GFIFM-5505:Cancelled
+25799527:Automated -> GFIFM-5504:Cancelled
+25799532:Automated -> GFIFM-5503:Automation Backlog
+25762657:Automated -> GFIFM-6529:Cancelled
+25762618:Automated -> GFIFM-7760:Cancelled
+25762630:Automated -> GFIFM-7476:Cancelled
+26057722:Automated -> GFIFM-7835:Cancelled
+26057726:Automated -> GFIFM-7878:Cancelled
+26057731:Automated -> GFIFM-7833:Automation Backlog
+26058256:Automated -> GFIFM-7573:Cancelled
+26058258:Automated -> GFIFM-7798:Cancelled
+26058550:Automated -> GFIFM-7763:Cancelled
+26058551:Automated -> GFIFM-7765:Cancelled
+26058552:Automated -> GFIFM-7800:Cancelled
+26058558:Automated -> GFIFM-7802:Cancelled
+26058560:Automated -> GFIFM-7804:Cancelled
+26073859:Automated -> GFIFM-7452:Automation Backlog
+26073863:Automated -> GFIFM-7450:Automation Backlog
+26073874:Automated -> GFIFM-7448:Automation Backlog
+26073876:Automated -> GFIFM-10365:Backlog
+1130452:Automated -> GFIFM-574:Closed
+25731104:Automated -> GFIFM-4156:Automation Backlog
+25731112:Automated -> GFIFM-4526:Cancelled
+25731113:Automated -> GFIFM-7468:Automation Backlog
+25731584:Automated -> GFIFM-4227:Backlog
+25732867:Automated -> GFIFM-4241:Automation Backlog
+25784329:Automated -> GFIFM-3948:Automation Backlog
+25734189:Automated -> GFIFM-7140:Dependency Block
+25746415:Automated -> GFIFM-5519:Cancelled
+25746918:Automated -> GFIFM-4208:Automation Backlog
+25746923:Automated -> GFIFM-4209:Automation Backlog
+25746925:Automated -> GFIFM-4250:Automation Backlog
+25746942:Automated -> GFIFM-4210:Automation Backlog
+25765561:Automated -> GFIFM-4275:Cancelled
+25771485:Automated -> GFIFM-4536:Backlog
+25772234:Automated -> GFIFM-4211:Cancelled
+25776266:Automated -> GFIFM-4213:Cancelled
+25779264:Automated -> GFIFM-4527:Cancelled
+25783691:Automated -> GFIFM-4602:Cancelled
+25784632:Automated -> GFIFM-4219:Cancelled
+25784634:Automated -> GFIFM-4244:Automation Backlog
+25785232:Automated -> GFIFM-5361:Cancelled
+26054910:Automated -> GFIFM-5526:E2E Definition
+25784643:Automated -> GFIFM-4249:Cancelled
+25799061:Automated -> GFIFM-4565:Cancelled
+21468925:Automated -> GFIFM-4175:Cancelled
+21468926:Automated -> GFIFM-4175:Cancelled
+16216282:Automated -> GFIFM-4175:Cancelled
+21468987:Automated -> GFIFM-4175:Cancelled
+21468999:Automated -> GFIFM-4175:Cancelled
+26067719:Automated -> GFIFM-4538:Cancelled
+14015366:Automated -> FIRM58-7251:Cancelled
+14015368:Automated -> FIRM58-7251:Cancelled
+14015376:Automated -> FIRM58-7251:Cancelled
+14015378:Automated -> FIRM58-7251:Cancelled
+14015388:Automated -> FIRM58-7251:Cancelled
+14015414:Automated -> FIRM58-7251:Cancelled
+14015420:Automated -> FIRM58-7251:Cancelled
+13993793:Automated -> FIRM58-7251:Cancelled
+14044930:Automated -> FIRM58-7251:Cancelled
+14044928:Automated -> FIRM58-7251:Cancelled
+14026878:Automated -> FIRM58-7251:Cancelled
+14026717:Automated -> FIRM58-7251:Cancelled
+14026895:Automated -> FIRM58-7251:Cancelled
+14026891:Automated -> FIRM58-7251:Cancelled
+14026750:Automated -> FIRM58-7251:Cancelled
+14026754:Automated -> FIRM58-7251:Cancelled
+14026758:Automated -> FIRM58-7251:Cancelled
+14026762:Automated -> FIRM58-7251:Cancelled
+14026763:Automated -> FIRM58-7251:Cancelled
+14026764:Automated -> FIRM58-7251:Cancelled
+14026774:Automated -> FIRM58-7251:Cancelled
+14044778:Automated -> FIRM58-7252:Cancelled
+14044841:Automated -> FIRM58-7252:Cancelled
+14044799:Automated -> FIRM58-7252:Cancelled
+14044791:Automated -> FIRM58-7252:Cancelled
+14109388:Automated -> FIRM58-7250:Cancelled
+14122018:Automated -> FIRM58-7250:Cancelled
+21788869:Automated -> FIRM58-6977:Cancelled
+21788881:Automated -> FIRM58-6977:Cancelled
+21788896:Automated -> FIRM58-6977:Cancelled
+21788913:Automated -> FIRM58-6977:Cancelled
+14280124:Automated -> FIRM58-8275:Cancelled
+14475331:Automated -> FIRM58-7250:Cancelled
+1917503:Automated -> FIRSTRAIN-10826:Released
+1886606:Automated -> FIRSTRAIN-15831:Closed
+1883369:Automated -> FIRSTRAIN-16247:Backlog
+1884060:Automated -> FIRSTRAIN-16247:Backlog
+1884061:Automated -> FIRSTRAIN-16247:Backlog
+1884062:Automated -> FIRSTRAIN-16247:Backlog
+17143038:Automated -> FIRSTRAIN-16247:Backlog
+22198216:Automated -> JVHOPST-1483:Cancelled
+22198218:Automated -> JVHOPST-1483:Cancelled
+22198219:Automated -> JVHOPST-1483:Cancelled
+22198220:Automated -> JVHOPST-1483:Cancelled
+22198221:Automated -> JVHOPST-1483:Cancelled
+22198222:Automated -> JVHOPST-1483:Cancelled
+22198223:Automated -> JVHOPST-1483:Cancelled
+22198224:Automated -> JVHOPST-1483:Cancelled
+22198225:Automated -> JVHOPST-1483:Cancelled
+22198226:Automated -> JVHOPST-1483:Cancelled
+14520119:Automated -> JVHOPST-1491:Automation Backlog
+22898195:Automated -> JVHOPST-6338:Cancelled
+22898319:Automated -> JVHOPST-6338:Cancelled
+22898333:Automated -> JVHOPST-6338:Cancelled
+22898338:Automated -> JVHOPST-6338:Cancelled
+22898339:Automated -> JVHOPST-6338:Cancelled
+22898348:Automated -> JVHOPST-6338:Cancelled
+22898349:Automated -> JVHOPST-6338:Cancelled
+22899225:Automated -> JVHOPST-6338:Cancelled
+22898384:Automated -> JVHOPST-6338:Cancelled
+22898392:Automated -> JVHOPST-6338:Cancelled
+22898393:Automated -> JVHOPST-6338:Cancelled
+22899229:Automated -> JVHOPST-6338:Cancelled
+22899221:Automated -> JVHOPST-6338:Cancelled
+22899234:Automated -> JVHOPST-6338:Cancelled
+22899247:Automated -> JVHOPST-6338:Cancelled
+26331004:Automated -> JVHOPST-69:Cancelled
+26331005:Automated -> JVHOPST-69:Cancelled
+26331006:Automated -> JVHOPST-69:Cancelled
+26331007:Automated -> JVHOPST-69:Cancelled
+26331008:Automated -> JVHOPST-69:Cancelled
+26331009:Automated -> JVHOPST-69:Cancelled
+26331010:Automated -> JVHOPST-69:Cancelled
+26331011:Automated -> JVHOPST-69:Cancelled
+26331012:Automated -> JVHOPST-69:Cancelled
+26331013:Automated -> JVHOPST-69:Cancelled
+26331014:Automated -> JVHOPST-69:Cancelled
+26331015:Automated -> JVHOPST-69:Cancelled
+26331016:Automated -> JVHOPST-69:Cancelled
+26057115:Automated -> JVSRCH-10362:Pending TC Replacement
+26072179:Automated -> JVSRCH-10306:Automation Backlog
+26081800:Automated -> JVSRCH-10498:Pending TC Replacement
+26146692:Automated -> JVSRCH-11451:Pending TC Replacement
+26324410:Automated -> JVSRCH-12705:Pending TC Replacement
+26324924:Automated -> JVSRCH-12785:Pending TC Replacement
+26325133:Automated -> JVSRCH-12750:Automation Backlog
+14112474:Automated -> KAYAKOC-358:Open
+25806345:Automated -> KAYAKOC-529:Failed QB
+25738121:Automated -> KAYAKOC-364:Open
+25642164:Automated -> KAYAKOC-374:Open
+26348656:Automated -> KAYAKOC-16794:Pending TC Replacement
+26471885:Automated -> KAYAKOC-17629:Open
+14046707:Automated -> KAYAKO-6923:Open
+11225031:Automated -> KAYAKO-5528:Cancelled
+11225032:Automated -> KAYAKO-5528:Cancelled
+11225033:Automated -> KAYAKO-5528:Cancelled
+12758651:Automated -> KAYAKO-5528:Cancelled
+12758657:Automated -> KAYAKO-5528:Cancelled
+12758668:Automated -> KAYAKO-5528:Cancelled
+11225034:Automated -> KAYAKO-5528:Cancelled
+11225039:Automated -> KAYAKO-5528:Cancelled
+11225040:Automated -> KAYAKO-5528:Cancelled
+11226780:Automated -> KAYAKO-5528:Cancelled
+11226781:Automated -> KAYAKO-5528:Cancelled
+11226782:Automated -> KAYAKO-5528:Cancelled
+11226784:Automated -> KAYAKO-5528:Cancelled
+11226785:Automated -> KAYAKO-5528:Cancelled
+11226786:Automated -> KAYAKO-5528:Cancelled
+11226787:Automated -> KAYAKO-5528:Cancelled
+12758566:Automated -> KAYAKO-5528:Cancelled
+12758567:Automated -> KAYAKO-5528:Cancelled
+12758568:Automated -> KAYAKO-5528:Cancelled
+12758569:Automated -> KAYAKO-5528:Cancelled
+12758570:Automated -> KAYAKO-5528:Cancelled
+12758571:Automated -> KAYAKO-5528:Cancelled
+12758572:Automated -> KAYAKO-5528:Cancelled
+12758573:Automated -> KAYAKO-5528:Cancelled
+12758574:Automated -> KAYAKO-5528:Cancelled
+13363681:Automated -> KAYAKO-5528:Cancelled
+13363682:Automated -> KAYAKO-5528:Cancelled
+13363683:Automated -> KAYAKO-5528:Cancelled
+13363684:Automated -> KAYAKO-5528:Cancelled
+13364176:Automated -> KAYAKO-5528:Cancelled
+13364177:Automated -> KAYAKO-5528:Cancelled
+13364178:Automated -> KAYAKO-5528:Cancelled
+13364179:Automated -> KAYAKO-5528:Cancelled
+13364180:Automated -> KAYAKO-5528:Cancelled
+13364181:Automated -> KAYAKO-5528:Cancelled
+13364182:Automated -> KAYAKO-5528:Cancelled
+13364183:Automated -> KAYAKO-5528:Cancelled
+13364185:Automated -> KAYAKO-5528:Cancelled
+13364186:Automated -> KAYAKO-5528:Cancelled
+13364187:Automated -> KAYAKO-5528:Cancelled
+13364188:Automated -> KAYAKO-5528:Cancelled
+13364190:Automated -> KAYAKO-5528:Cancelled
+13364191:Automated -> KAYAKO-5528:Cancelled
+13364192:Automated -> KAYAKO-5528:Cancelled
+13364193:Automated -> KAYAKO-5528:Cancelled
+13364194:Automated -> KAYAKO-5528:Cancelled
+13364195:Automated -> KAYAKO-5528:Cancelled
+13364197:Automated -> KAYAKO-5528:Cancelled
+13364199:Automated -> KAYAKO-5528:Cancelled
+13364200:Automated -> KAYAKO-5528:Cancelled
+13364201:Automated -> KAYAKO-5528:Cancelled
+13364202:Automated -> KAYAKO-5528:Cancelled
+13364203:Automated -> KAYAKO-5528:Cancelled
+13364204:Automated -> KAYAKO-5528:Cancelled
+13363680:Automated -> KAYAKO-5528:Cancelled
+13519240:Automated -> KAYAKO-5528:Cancelled
+13519241:Automated -> KAYAKO-5528:Cancelled
+13519242:Automated -> KAYAKO-5528:Cancelled
+13519243:Automated -> KAYAKO-5528:Cancelled
+13519244:Automated -> KAYAKO-5528:Cancelled
+13519245:Automated -> KAYAKO-5528:Cancelled
+13519246:Automated -> KAYAKO-5528:Cancelled
+13519247:Automated -> KAYAKO-5528:Cancelled
+13519248:Automated -> KAYAKO-5528:Cancelled
+13519252:Automated -> KAYAKO-5528:Cancelled
+13519253:Automated -> KAYAKO-5528:Cancelled
+13519254:Automated -> KAYAKO-5528:Cancelled
+13519255:Automated -> KAYAKO-5528:Cancelled
+13519256:Automated -> KAYAKO-5528:Cancelled
+14502747:Automated -> KAYAKO-4562:Released
+14502757:Automated -> KAYAKO-4562:Released
+26142819:Automated -> KAYAKO-20533:Cancelled
+26167615:Automated -> KAYAKO-18114:Open
+26188424:Automated -> KAYAKO-22571:Failed E2E Review
+26188446:Automated -> KAYAKO-22561:Failed E2E Review
+26189543:Automated -> KAYAKO-22601:Failed E2E Review
+26189847:Automated -> KAYAKO-22596:Failed E2E Review
+26330268:Automated -> KAYAKO-20284:Cancelled
+26489301:Automated -> KAYAKO-24433:E2E PCA Review
+26491164:Automated -> KAYAKO-2636:Cancelled
+26506881:Automated -> KAYAKO-14332:Open
+1449297:Automated -> GFIL-6889:Released
+1924231:Automated -> GFIL-3662:Released
+11139554:Automated -> GFIL-4456:Released
+11170458:Automated -> GFIL-4456:Released
+11170459:Automated -> GFIL-4456:Released
+1924232:Automated -> GFIL-3653:Released
+13813694:Automated -> GFIL-4728:Released
+14501340:Automated -> GFIL-4728:Released
+13792296:Automated -> GFIL-4637:Released
+13792352:Automated -> GFIL-4637:Released
+13792355:Automated -> GFIL-4637:Released
+13792357:Automated -> GFIL-4637:Released
+13792359:Automated -> GFIL-4637:Released
+13813583:Automated -> GFIL-4637:Released
+13792331:Automated -> GFIL-4637:Released
+13792372:Automated -> GFIL-4637:Released
+13792376:Automated -> GFIL-4637:Released
+13792384:Automated -> GFIL-4637:Released
+13792386:Automated -> GFIL-4637:Released
+13813601:Automated -> GFIL-4637:Released
+13813609:Automated -> GFIL-4637:Released
+1254561:Automated -> GFIL-4936:Cancelled
+961085:Automated -> GFIL-5337:Automation Backlog
+1906584:Automated -> GFIL-3518:Released
+1314528:Automated -> GFIL-8128:Closed
+14189484:Automated -> GFIL-4490:Released
+15355111:Automated -> GFIL-4290:Released
+15355235:Automated -> GFIL-4734:Released
+15355350:Automated -> GFIL-4843:Released
+15355358:Automated -> GFIL-5256:Released
+15475166:Automated -> GFIL-5343:Released
+14476049:Automated -> GFIL-4945:Cancelled
+14498127:Automated -> GFIL-4945:Cancelled
+14498128:Automated -> GFIL-4945:Cancelled
+14498129:Automated -> GFIL-4945:Cancelled
+14498328:Automated -> GFIL-4945:Cancelled
+14498329:Automated -> GFIL-4945:Cancelled
+16257749:Automated -> GFIL-4946:Cancelled
+16257783:Automated -> GFIL-4946:Cancelled
+16257784:Automated -> GFIL-4946:Cancelled
+17157711:Automated -> GFIL-5399:Cancelled
+17892465:Automated -> GFIL-5399:Cancelled
+16771548:Automated -> GFIL-5526:Cancelled
+16771550:Automated -> GFIL-5526:Cancelled
+16771551:Automated -> GFIL-5526:Cancelled
+16771545:Automated -> GFIL-5527:Cancelled
+16771546:Automated -> GFIL-5527:Cancelled
+16771172:Automated -> GFIL-5527:Cancelled
+17681464:Automated -> GFIL-5667:Cancelled
+17681470:Automated -> GFIL-5667:Cancelled
+17681661:Automated -> GFIL-5667:Cancelled
+17681686:Automated -> GFIL-5667:Cancelled
+17681703:Automated -> GFIL-5667:Cancelled
+17148368:Automated -> GFIL-5668:Cancelled
+17436402:Automated -> GFIL-5668:Cancelled
+17435200:Automated -> GFIL-5668:Cancelled
+17436404:Automated -> GFIL-5668:Cancelled
+17436407:Automated -> GFIL-5668:Cancelled
+17115709:Automated -> GFIL-5669:Cancelled
+17435185:Automated -> GFIL-5669:Cancelled
+17435201:Automated -> GFIL-5669:Cancelled
+17435202:Automated -> GFIL-5669:Cancelled
+17435204:Automated -> GFIL-5669:Cancelled
+17650469:Automated -> GFIL-5670:Cancelled
+17650560:Automated -> GFIL-5670:Cancelled
+21138512:Automated -> GFIL-7127:Cancelled
+21150550:Automated -> GFIL-7127:Cancelled
+21150605:Automated -> GFIL-7127:Cancelled
+21199566:Automated -> GFIL-7154:Cancelled
+21230676:Automated -> GFIL-7154:Cancelled
+21230703:Automated -> GFIL-7154:Cancelled
+21230704:Automated -> GFIL-7154:Cancelled
+21428729:Automated -> GFIL-7154:Cancelled
+21230705:Automated -> GFIL-7154:Cancelled
+21650844:Automated -> GFIL-7231:Cancelled
+21654135:Automated -> GFIL-7231:Cancelled
+21654388:Automated -> GFIL-7231:Cancelled
+21679761:Automated -> GFIL-7231:Cancelled
+21679765:Automated -> GFIL-7231:Cancelled
+15945176:Automated -> GFIL-4936:Cancelled
+15945212:Automated -> GFIL-4936:Cancelled
+15955310:Automated -> GFIL-4936:Cancelled
+15955315:Automated -> GFIL-4936:Cancelled
+15955326:Automated -> GFIL-4936:Cancelled
+15955714:Automated -> GFIL-4936:Cancelled
+15955716:Automated -> GFIL-4936:Cancelled
+15955721:Automated -> GFIL-4936:Cancelled
+17941181:Automated -> GFIL-5533:Cancelled
+17941182:Automated -> GFIL-5533:Cancelled
+17941183:Automated -> GFIL-5533:Cancelled
+17941184:Automated -> GFIL-5533:Cancelled
+17941185:Automated -> GFIL-5533:Cancelled
+17941188:Automated -> GFIL-5533:Cancelled
+17895861:Automated -> GFIL-5534:Cancelled
+17940128:Automated -> GFIL-5534:Cancelled
+17940137:Automated -> GFIL-5534:Cancelled
+17940138:Automated -> GFIL-5534:Cancelled
+17940162:Automated -> GFIL-5534:Cancelled
+17940142:Automated -> GFIL-5534:Cancelled
+16925707:Automated -> GFIL-5535:Cancelled
+17154633:Automated -> GFIL-5536:Cancelled
+17683909:Automated -> GFIL-5979:Cancelled
+17893981:Automated -> GFIL-5979:Cancelled
+17893993:Automated -> GFIL-5979:Cancelled
+17895977:Automated -> GFIL-5979:Cancelled
+17895980:Automated -> GFIL-5979:Cancelled
+20525080:Automated -> GFIL-6929:Cancelled
+20525203:Automated -> GFIL-6929:Cancelled
+20525166:Automated -> GFIL-6929:Cancelled
+20525242:Automated -> GFIL-6929:Cancelled
+20525850:Automated -> GFIL-6929:Cancelled
+959860:Automated -> GFIL-7141:Cancelled
+1032290:Automated -> GFIL-7141:Cancelled
+1941486:Automated -> GFIL-7141:Cancelled
+1313974:Automated -> GFIL-6939:Cancelled
+1313975:Automated -> GFIL-6939:Cancelled
+1313976:Automated -> GFIL-6939:Cancelled
+1313977:Automated -> GFIL-6939:Cancelled
+1313979:Automated -> GFIL-6939:Cancelled
+1314113:Automated -> GFIL-6939:Cancelled
+1314120:Automated -> GFIL-6939:Cancelled
+1314507:Automated -> GFIL-6939:Cancelled
+22426442:Automated -> GFIL-8134:Cancelled
+22426444:Automated -> GFIL-8134:Cancelled
+22434653:Automated -> GFIL-8134:Cancelled
+22434784:Automated -> GFIL-8134:Cancelled
+22439429:Automated -> GFIL-8134:Cancelled
+22439461:Automated -> GFIL-8134:Cancelled
+22439650:Automated -> GFIL-8134:Cancelled
+22439652:Automated -> GFIL-8134:Cancelled
+22439657:Automated -> GFIL-8134:Cancelled
+22444172:Automated -> GFIL-8134:Cancelled
+22444200:Automated -> GFIL-8134:Cancelled
+22444554:Automated -> GFIL-8134:Cancelled
+16249409:Automated -> GFIL-5532:Cancelled
+16256980:Automated -> GFIL-5532:Cancelled
+16257177:Automated -> GFIL-5532:Cancelled
+16411847:Automated -> GFIL-5532:Cancelled
+16411852:Automated -> GFIL-5532:Cancelled
+1181234:Automated -> GFIL-6937:Cancelled
+1181236:Automated -> GFIL-6937:Cancelled
+1181237:Automated -> GFIL-6937:Cancelled
+1181238:Automated -> GFIL-6937:Cancelled
+1181239:Automated -> GFIL-6937:Cancelled
+1181240:Automated -> GFIL-6937:Cancelled
+1181241:Automated -> GFIL-6937:Cancelled
+1181244:Automated -> GFIL-6938:Cancelled
+1181245:Automated -> GFIL-6938:Cancelled
+1181247:Automated -> GFIL-6938:Cancelled
+1181248:Automated -> GFIL-6938:Cancelled
+1181249:Automated -> GFIL-6938:Cancelled
+1181250:Automated -> GFIL-6938:Cancelled
+1190241:Automated -> GFIL-6938:Cancelled
+960356:Automated -> GFIL-8080:Cancelled
+961018:Automated -> GFIL-8080:Cancelled
+1039026:Automated -> GFIL-8080:Cancelled
+22960401:Automated -> GFIL-8080:Cancelled
+22960402:Automated -> GFIL-8080:Cancelled
+22921660:Automated -> GFIL-8082:Cancelled
+22921675:Automated -> GFIL-8082:Cancelled
+22921687:Automated -> GFIL-8082:Cancelled
+22921661:Automated -> GFIL-8082:Cancelled
+22921688:Automated -> GFIL-8082:Cancelled
+22891725:Automated -> GFIL-8257:Cancelled
+22891728:Automated -> GFIL-8257:Cancelled
+22891729:Automated -> GFIL-8257:Cancelled
+22893673:Automated -> GFIL-8257:Cancelled
+22908595:Automated -> GFIL-8256:Cancelled
+22908675:Automated -> GFIL-8256:Cancelled
+22908703:Automated -> GFIL-8256:Cancelled
+22909040:Automated -> GFIL-8256:Cancelled
+22909069:Automated -> GFIL-8256:Cancelled
+22909085:Automated -> GFIL-8256:Cancelled
+22909122:Automated -> GFIL-8256:Cancelled
+22909445:Automated -> GFIL-8256:Cancelled
+22909459:Automated -> GFIL-8256:Cancelled
+23185038:Automated -> GFIL-8625:Cancelled
+23185036:Automated -> GFIL-8625:Cancelled
+23185037:Automated -> GFIL-8625:Cancelled
+23185289:Automated -> GFIL-8625:Cancelled
+23189089:Automated -> GFIL-8626:Cancelled
+23189091:Automated -> GFIL-8626:Cancelled
+23189092:Automated -> GFIL-8626:Cancelled
+23189093:Automated -> GFIL-8626:Cancelled
+23189438:Automated -> GFIL-8626:Cancelled
+23189439:Automated -> GFIL-8626:Cancelled
+16771558:Automated -> GFIL-4934:Cancelled
+16771565:Automated -> GFIL-4934:Cancelled
+16256578:Automated -> GFIL-5528:Cancelled
+16256585:Automated -> GFIL-5528:Cancelled
+16256586:Automated -> GFIL-5528:Cancelled
+16256587:Automated -> GFIL-5528:Cancelled
+16411757:Automated -> GFIL-5528:Cancelled
+16411871:Automated -> GFIL-5529:Cancelled
+16411872:Automated -> GFIL-5529:Cancelled
+16411874:Automated -> GFIL-5529:Cancelled
+16411912:Automated -> GFIL-5529:Cancelled
+16411914:Automated -> GFIL-5529:Cancelled
+17157709:Automated -> GFIL-5531:Cancelled
+17681479:Automated -> GFIL-5531:Cancelled
+17681480:Automated -> GFIL-5531:Cancelled
+17681481:Automated -> GFIL-5531:Cancelled
+17681484:Automated -> GFIL-5531:Cancelled
+1118813:Automated -> GFIL-8101:Cancelled
+1118814:Automated -> GFIL-8101:Cancelled
+1118815:Automated -> GFIL-8101:Cancelled
+1121070:Automated -> GFIL-8101:Cancelled
+5484191:Automated -> GFIL-8100:Cancelled
+5484192:Automated -> GFIL-8100:Cancelled
+5484193:Automated -> GFIL-8100:Cancelled
+5484195:Automated -> GFIL-8100:Cancelled
+5486568:Automated -> GFIL-8100:Cancelled
+5488939:Automated -> GFIL-8100:Cancelled
+7258501:Automated -> GFIL-8100:Cancelled
+7258502:Automated -> GFIL-8100:Cancelled
+7258503:Automated -> GFIL-8100:Cancelled
+17941395:Automated -> GFIL-5324:Dependency Block
+17941403:Automated -> GFIL-5324:Dependency Block
+17941423:Automated -> GFIL-5324:Dependency Block
+17941480:Automated -> GFIL-5324:Dependency Block
+17941461:Automated -> GFIL-5324:Dependency Block
+17941478:Automated -> GFIL-5324:Dependency Block
+971633:Automated -> GFIL-8058:Cancelled
+1039122:Automated -> GFIL-8058:Cancelled
+1243671:Automated -> GFIL-8058:Cancelled
+1243659:Automated -> GFIL-8059:Cancelled
+1243660:Automated -> GFIL-8059:Cancelled
+1243662:Automated -> GFIL-8059:Cancelled
+1243667:Automated -> GFIL-8096:Cancelled
+1243672:Automated -> GFIL-8098:Cancelled
+1243673:Automated -> GFIL-8098:Cancelled
+1243674:Automated -> GFIL-8098:Cancelled
+1243675:Automated -> GFIL-8098:Cancelled
+16232287:Automated -> GFIL-4949:Cancelled
+14520426:Automated -> GFIL-4949:Cancelled
+16232288:Automated -> GFIL-4949:Cancelled
+16232290:Automated -> GFIL-4949:Cancelled
+16232289:Automated -> GFIL-4949:Cancelled
+15703302:Automated -> GFIL-5339:Cancelled
+15703356:Automated -> GFIL-5339:Cancelled
+15703421:Automated -> GFIL-5339:Cancelled
+15703532:Automated -> GFIL-5339:Cancelled
+15703533:Automated -> GFIL-5339:Cancelled
+15703625:Automated -> GFIL-5339:Cancelled
+15823917:Automated -> GFIL-5339:Cancelled
+22297477:Automated -> GFIL-5339:Cancelled
+22297505:Automated -> GFIL-5339:Cancelled
+16918213:Automated -> GFIL-5323:Cancelled
+16923612:Automated -> GFIL-5323:Cancelled
+16923624:Automated -> GFIL-5323:Cancelled
+16923625:Automated -> GFIL-5323:Cancelled
+16923629:Automated -> GFIL-5338:Cancelled
+16923640:Automated -> GFIL-5338:Cancelled
+16923637:Automated -> GFIL-5338:Cancelled
+16923644:Automated -> GFIL-5338:Cancelled
+22125761:Automated -> GFIL-7343:Cancelled
+22125777:Automated -> GFIL-7343:Cancelled
+22125782:Automated -> GFIL-7343:Cancelled
+22125788:Automated -> GFIL-7343:Cancelled
+22125790:Automated -> GFIL-7343:Cancelled
+22125794:Automated -> GFIL-7343:Cancelled
+22125811:Automated -> GFIL-7343:Cancelled
+22125821:Automated -> GFIL-7343:Cancelled
+22125823:Automated -> GFIL-7343:Cancelled
+22125828:Automated -> GFIL-7343:Cancelled
+22125832:Automated -> GFIL-7343:Cancelled
+23982936:Automated -> GFIL-8660:Cancelled
+23983058:Automated -> GFIL-8660:Cancelled
+23983094:Automated -> GFIL-8660:Cancelled
+23983131:Automated -> GFIL-8660:Cancelled
+23983073:Automated -> GFIL-8660:Cancelled
+23983066:Automated -> GFIL-8660:Cancelled
+23983099:Automated -> GFIL-8660:Cancelled
+23983139:Automated -> GFIL-8660:Cancelled
+17941750:Automated -> GFIL-5325:Cancelled
+17941753:Automated -> GFIL-5325:Cancelled
+17941755:Automated -> GFIL-5325:Cancelled
+1240365:Automated -> GFIL-7152:Cancelled
+1240366:Automated -> GFIL-7152:Cancelled
+1240369:Automated -> GFIL-7152:Cancelled
+22954600:Automated -> GFIL-4948:Cancelled
+22954639:Automated -> GFIL-4948:Cancelled
+22954676:Automated -> GFIL-4948:Cancelled
+22954680:Automated -> GFIL-4948:Cancelled
+22954741:Automated -> GFIL-4948:Cancelled
+22954743:Automated -> GFIL-4948:Cancelled
+22954689:Automated -> GFIL-4948:Cancelled
+22954715:Automated -> GFIL-4948:Cancelled
+22954731:Automated -> GFIL-4948:Cancelled
+22954735:Automated -> GFIL-4948:Cancelled
+22954738:Automated -> GFIL-4948:Cancelled
+22954739:Automated -> GFIL-4948:Cancelled
+14420490:Automated -> GFIL-4928:Cancelled
+14475974:Automated -> GFIL-4928:Cancelled
+14476028:Automated -> GFIL-4928:Cancelled
+14476036:Automated -> GFIL-4928:Cancelled
+14476047:Automated -> GFIL-4928:Cancelled
+18963036:Automated -> GFIL-6516:Cancelled
+18964522:Automated -> GFIL-6516:Cancelled
+18964632:Automated -> GFIL-6516:Cancelled
+18964813:Automated -> GFIL-6516:Cancelled
+18964834:Automated -> GFIL-6516:Cancelled
+18965014:Automated -> GFIL-6516:Cancelled
+18965217:Automated -> GFIL-6516:Cancelled
+18965957:Automated -> GFIL-6516:Cancelled
+18965433:Automated -> GFIL-6516:Cancelled
+17115611:Automated -> GFIL-5671:Cancelled
+17115652:Automated -> GFIL-5671:Cancelled
+17115655:Automated -> GFIL-5671:Cancelled
+17115667:Automated -> GFIL-5671:Cancelled
+17115678:Automated -> GFIL-5671:Cancelled
+17114693:Automated -> GFIL-5672:Cancelled
+17115222:Automated -> GFIL-5672:Cancelled
+17115242:Automated -> GFIL-5672:Cancelled
+17115275:Automated -> GFIL-5672:Cancelled
+17115295:Automated -> GFIL-5672:Cancelled
+17115316:Automated -> GFIL-5672:Cancelled
+18511226:Automated -> GFIL-6501:Cancelled
+18536127:Automated -> GFIL-6501:Cancelled
+18536330:Automated -> GFIL-6501:Cancelled
+18536696:Automated -> GFIL-6501:Cancelled
+18537849:Automated -> GFIL-6501:Cancelled
+21429057:Automated -> GFIL-7184:Cancelled
+21429074:Automated -> GFIL-7184:Cancelled
+21429091:Automated -> GFIL-7184:Cancelled
+21429098:Automated -> GFIL-7184:Cancelled
+21429101:Automated -> GFIL-7181:Cancelled
+21429102:Automated -> GFIL-7181:Cancelled
+21429105:Automated -> GFIL-7184:Cancelled
+21429118:Automated -> GFIL-7184:Cancelled
+21429121:Automated -> GFIL-7184:Cancelled
+21429124:Automated -> GFIL-7184:Cancelled
+21429125:Automated -> GFIL-7184:Cancelled
+21429129:Automated -> GFIL-7184:Cancelled
+21429130:Automated -> GFIL-7184:Cancelled
+21429132:Automated -> GFIL-7184:Cancelled
+21431189:Automated -> GFIL-7183:Cancelled
+21431193:Automated -> GFIL-7183:Cancelled
+21431196:Automated -> GFIL-7183:Cancelled
+21431202:Automated -> GFIL-7183:Cancelled
+21431207:Automated -> GFIL-7183:Cancelled
+18368742:Automated -> GFIL-6496:Cancelled
+18370119:Automated -> GFIL-6496:Cancelled
+18372041:Automated -> GFIL-6496:Cancelled
+18368801:Automated -> GFIL-6496:Cancelled
+18368931:Automated -> GFIL-6496:Cancelled
+25238917:Automated -> GFIL-6499:Cancelled
+25238928:Automated -> GFIL-6499:Cancelled
+25238938:Automated -> GFIL-6499:Cancelled
+25238940:Automated -> GFIL-6499:Cancelled
+25238941:Automated -> GFIL-6499:Cancelled
+25238943:Automated -> GFIL-6499:Cancelled
+25238954:Automated -> GFIL-6499:Cancelled
+15942609:Automated -> GFIL-4947:Cancelled
+16059467:Automated -> GFIL-4947:Cancelled
+16059468:Automated -> GFIL-4947:Cancelled
+16248145:Automated -> GFIL-5398:Cancelled
+16248146:Automated -> GFIL-5398:Cancelled
+16248147:Automated -> GFIL-5398:Cancelled
+14149456:Automated -> GFIL-7085:Cancelled
+14149503:Automated -> GFIL-7085:Cancelled
+14149527:Automated -> GFIL-7085:Cancelled
+14149563:Automated -> GFIL-7085:Cancelled
+14149589:Automated -> GFIL-7085:Cancelled
+14149602:Automated -> GFIL-7085:Cancelled
+14150298:Automated -> GFIL-7085:Cancelled
+9326596:Automated -> GFIL-7083:Cancelled
+9326597:Automated -> GFIL-7083:Cancelled
+9326598:Automated -> GFIL-7083:Cancelled
+9326599:Automated -> GFIL-7083:Cancelled
+9326600:Automated -> GFIL-7083:Cancelled
+9326601:Automated -> GFIL-7083:Cancelled
+9326602:Automated -> GFIL-7083:Cancelled
+9326603:Automated -> GFIL-7083:Cancelled
+9326604:Automated -> GFIL-7083:Cancelled
+14110241:Automated -> GFIL-8116:Cancelled
+14112292:Automated -> GFIL-8116:Cancelled
+14112324:Automated -> GFIL-8116:Cancelled
+14112379:Automated -> GFIL-8116:Cancelled
+14112428:Automated -> GFIL-8116:Cancelled
+14112539:Automated -> GFIL-8116:Cancelled
+14112546:Automated -> GFIL-8116:Cancelled
+14112727:Automated -> GFIL-8116:Cancelled
+1941489:Automated -> GFIL-8145:Cancelled
+1941490:Automated -> GFIL-8145:Cancelled
+14112736:Automated -> GFIL-8148:Cancelled
+14112758:Automated -> GFIL-8148:Cancelled
+14112853:Automated -> GFIL-8148:Cancelled
+14112918:Automated -> GFIL-8148:Cancelled
+14113047:Automated -> GFIL-8148:Cancelled
+14119599:Automated -> GFIL-8148:Cancelled
+14119681:Automated -> GFIL-8148:Cancelled
+14150968:Automated -> GFIL-8148:Cancelled
+14113081:Automated -> GFIL-8148:Cancelled
+14113162:Automated -> GFIL-8148:Cancelled
+14113252:Automated -> GFIL-8148:Cancelled
+14113260:Automated -> GFIL-8148:Cancelled
+14119708:Automated -> GFIL-8148:Cancelled
+14119711:Automated -> GFIL-8148:Cancelled
+14119713:Automated -> GFIL-8148:Cancelled
+14120083:Automated -> GFIL-8148:Cancelled
+14113297:Automated -> GFIL-8148:Cancelled
+14113306:Automated -> GFIL-8148:Cancelled
+14113308:Automated -> GFIL-8148:Cancelled
+14113309:Automated -> GFIL-8148:Cancelled
+14119657:Automated -> GFIL-8148:Cancelled
+14119706:Automated -> GFIL-8148:Cancelled
+14119710:Automated -> GFIL-8148:Cancelled
+14119712:Automated -> GFIL-8148:Cancelled
+14150297:Automated -> GFIL-8149:Cancelled
+14150344:Automated -> GFIL-8149:Cancelled
+14150346:Automated -> GFIL-8149:Cancelled
+14150354:Automated -> GFIL-8149:Cancelled
+14150356:Automated -> GFIL-8149:Cancelled
+14150868:Automated -> GFIL-8149:Cancelled
+14150880:Automated -> GFIL-8149:Cancelled
+14150989:Automated -> GFIL-8149:Cancelled
+14186702:Automated -> GFIL-8150:Cancelled
+14187142:Automated -> GFIL-8150:Cancelled
+14187174:Automated -> GFIL-8150:Cancelled
+14187252:Automated -> GFIL-8150:Cancelled
+14187260:Automated -> GFIL-8150:Cancelled
+14187571:Automated -> GFIL-8150:Cancelled
+14187579:Automated -> GFIL-8150:Cancelled
+14187815:Automated -> GFIL-8150:Cancelled
+14187827:Automated -> GFIL-8150:Cancelled
+14187847:Automated -> GFIL-8150:Cancelled
+19099733:Automated -> GFIL-6521:Cancelled
+19100111:Automated -> GFIL-6521:Cancelled
+19102034:Automated -> GFIL-6521:Cancelled
+19103374:Automated -> GFIL-6521:Cancelled
+19103240:Automated -> GFIL-6521:Cancelled
+16923650:Automated -> GFIL-5337:Automation Backlog
+17960817:Automated -> GFIL-6262:Cancelled
+17960834:Automated -> GFIL-6262:Cancelled
+17960842:Automated -> GFIL-6262:Cancelled
+17960863:Automated -> GFIL-6262:Cancelled
+20524989:Automated -> GFIL-6936:Cancelled
+20524998:Automated -> GFIL-6936:Cancelled
+20524950:Automated -> GFIL-6936:Cancelled
+20524958:Automated -> GFIL-6936:Cancelled
+20524957:Automated -> GFIL-6936:Cancelled
+20524962:Automated -> GFIL-6936:Cancelled
+20524976:Automated -> GFIL-6936:Cancelled
+20524977:Automated -> GFIL-6936:Cancelled
+20524978:Automated -> GFIL-6936:Cancelled
+1315561:Automated -> GFIL-6934:Cancelled
+1027758:Automated -> GFIL-6935:Cancelled
+1240370:Automated -> GFIL-6935:Cancelled
+1240371:Automated -> GFIL-6935:Cancelled
+1240372:Automated -> GFIL-6935:Cancelled
+16257787:Automated -> GFIL-4950:Cancelled
+16257789:Automated -> GFIL-4950:Cancelled
+16257792:Automated -> GFIL-5322:Cancelled
+16257835:Automated -> GFIL-5322:Cancelled
+16257836:Automated -> GFIL-5322:Cancelled
+16257839:Automated -> GFIL-5322:Cancelled
+6897784:Automated -> GFIL-6931:Cancelled
+6897785:Automated -> GFIL-6931:Cancelled
+6897791:Automated -> GFIL-6931:Cancelled
+6897792:Automated -> GFIL-6931:Cancelled
+6897787:Automated -> GFIL-6932:Cancelled
+6897788:Automated -> GFIL-6932:Cancelled
+6897789:Automated -> GFIL-6932:Cancelled
+6897790:Automated -> GFIL-6932:Cancelled
+20525920:Automated -> GFIL-6930:Cancelled
+20525921:Automated -> GFIL-6930:Cancelled
+20525922:Automated -> GFIL-6930:Cancelled
+20525923:Automated -> GFIL-6930:Cancelled
+20525937:Automated -> GFIL-6930:Cancelled
+21639128:Automated -> GFIL-7221:Cancelled
+21639244:Automated -> GFIL-7221:Cancelled
+21650526:Automated -> GFIL-7221:Cancelled
+21650610:Automated -> GFIL-7221:Cancelled
+22415643:Automated -> GFIL-7223:Cancelled
+22415743:Automated -> GFIL-7223:Cancelled
+22415775:Automated -> GFIL-7223:Cancelled
+22416209:Automated -> GFIL-7223:Cancelled
+22415766:Automated -> GFIL-7223:Cancelled
+25290770:Automated -> GFIL-9182:Cancelled
+25290797:Automated -> GFIL-9182:Cancelled
+25290801:Automated -> GFIL-9182:Cancelled
+25290804:Automated -> GFIL-9182:Cancelled
+25290807:Automated -> GFIL-9182:Cancelled
+25290808:Automated -> GFIL-9182:Cancelled
+25290810:Automated -> GFIL-9182:Cancelled
+25290812:Automated -> GFIL-9182:Cancelled
+17960928:Automated -> GFIL-6260:Cancelled
+17966289:Automated -> GFIL-6260:Cancelled
+17966290:Automated -> GFIL-6260:Cancelled
+17960927:Automated -> GFIL-6261:Cancelled
+17966315:Automated -> GFIL-6261:Cancelled
+17965929:Automated -> GFIL-6261:Cancelled
+961001:Automated -> GFIL-7176:Cancelled
+961003:Automated -> GFIL-7176:Cancelled
+960997:Automated -> GFIL-7178:Cancelled
+20214196:Automated -> GFIL-6515:Cancelled
+20214197:Automated -> GFIL-6515:Cancelled
+20214198:Automated -> GFIL-6515:Cancelled
+20214199:Automated -> GFIL-6515:Cancelled
+20214207:Automated -> GFIL-6515:Cancelled
+20214220:Automated -> GFIL-6515:Cancelled
+20214228:Automated -> GFIL-6515:Cancelled
+20214230:Automated -> GFIL-6515:Cancelled
+20214234:Automated -> GFIL-6515:Cancelled
+20214239:Automated -> GFIL-6515:Cancelled
+20214243:Automated -> GFIL-6515:Cancelled
+20214244:Automated -> GFIL-6515:Cancelled
+20214250:Automated -> GFIL-6515:Cancelled
+4715204:Automated -> DEV-31427:Released
+1913336:Automated -> DEV-31411:Released
+1968961:Automated -> DEV-28519:Released
+1968944:Automated -> DEV-28519:Released
+1968948:Automated -> DEV-28519:Released
+1968953:Automated -> DEV-28519:Released
+1968959:Automated -> DEV-28519:Released
+1883469:Automated -> DEV-28526:Released
+1883470:Automated -> DEV-28526:Released
+1883471:Automated -> DEV-28526:Released
+1883474:Automated -> DEV-28526:Released
+1883475:Automated -> DEV-28526:Released
+1883476:Automated -> DEV-28526:Released
+2030305:Automated -> DEV-28528:Released
+2030317:Automated -> DEV-28528:Released
+2181801:Automated -> DEV-28528:Released
+2181802:Automated -> DEV-28528:Released
+1887274:Automated -> DEV-28529:Released
+2214698:Automated -> DEV-28528:Released
+2214700:Automated -> DEV-28528:Released
+1887301:Automated -> DEV-28530:Released
+2181820:Automated -> DEV-28530:Released
+1889307:Automated -> DEV-28527:Released
+1957568:Automated -> DEV-28524:Released
+1957569:Automated -> DEV-28524:Released
+1957731:Automated -> DEV-28811:Released
+1984519:Automated -> DEV-29262:Released
+1984526:Automated -> DEV-29262:Released
+1889142:Automated -> DEV-29276:Released
+1984800:Automated -> DEV-29276:Released
+1984802:Automated -> DEV-29276:Released
+1885268:Automated -> DEV-29260:Released
+1885274:Automated -> DEV-29260:Released
+1885282:Automated -> DEV-29260:Released
+1972945:Automated -> DEV-29260:Released
+1984513:Automated -> DEV-29263:Released
+1984518:Automated -> DEV-29263:Released
+1885257:Automated -> DEV-29285:Released
+1984532:Automated -> DEV-29285:Released
+1984945:Automated -> DEV-29277:Released
+1984946:Automated -> DEV-29277:Released
+2049840:Automated -> DEV-29268:Released
+1984521:Automated -> DEV-29262:Released
+1972931:Automated -> DEV-29260:Released
+1972952:Automated -> DEV-29261:Released
+2175438:Automated -> DEV-30256:Released
+2180231:Automated -> DEV-30256:Released
+2180777:Automated -> DEV-30256:Released
+1889391:Automated -> DEV-29286:Released
+1889146:Automated -> DEV-29277:Released
+1883364:Automated -> DEV-28518:Released
+1883430:Automated -> DEV-28518:Released
+1970030:Automated -> DEV-28518:Released
+1984535:Automated -> DEV-29267:Released
+1889145:Automated -> DEV-29277:Released
+1885292:Automated -> DEV-29265:Released
+2049842:Automated -> DEV-29278:Released
+2181825:Automated -> DEV-28530:Released
+2214786:Automated -> DEV-28530:Released
+1892609:Automated -> DEV-29286:Released
+1984536:Automated -> DEV-29266:Released
+1970031:Automated -> DEV-28518:Released
+1970032:Automated -> DEV-28518:Released
+1885293:Automated -> DEV-29268:Released
+1884174:Automated -> DEV-29270:Released
+1889147:Automated -> DEV-29278:Released
+1888123:Automated -> DEV-29299:Released
+1888124:Automated -> DEV-29299:Released
+1888125:Automated -> DEV-29299:Released
+1888126:Automated -> DEV-29299:Released
+1888127:Automated -> DEV-29299:Released
+1888128:Automated -> DEV-29299:Released
+1888146:Automated -> DEV-29299:Released
+1888147:Automated -> DEV-29299:Released
+1888148:Automated -> DEV-29299:Released
+1888149:Automated -> DEV-29299:Released
+1888150:Automated -> DEV-29299:Released
+1888151:Automated -> DEV-29299:Released
+1888152:Automated -> DEV-29299:Released
+1888153:Automated -> DEV-29299:Released
+1892578:Automated -> DEV-29299:Released
+1888129:Automated -> DEV-29857:Released
+1933444:Automated -> DEV-29301:Released
+1933445:Automated -> DEV-29301:Released
+1933450:Automated -> DEV-29301:Released
+1933451:Automated -> DEV-29301:Released
+1933452:Automated -> DEV-29301:Released
+1933453:Automated -> DEV-29301:Released
+1892579:Automated -> DEV-29299:Released
+1892607:Automated -> DEV-29299:Released
+2030334:Automated -> DEV-29301:Released
+5862902:Automated -> DEV-31430:Released
+5873983:Automated -> DEV-31430:Released
+4558160:Automated -> DEV-31410:Released
+1970033:Automated -> DEV-28520:Released
+1970034:Automated -> DEV-28520:Released
+1970036:Automated -> DEV-28520:Released
+1970037:Automated -> DEV-28520:Released
+1970041:Automated -> DEV-28520:Released
+1970039:Automated -> DEV-28520:Released
+1970038:Automated -> DEV-28520:Released
+3036994:Automated -> DEV-29266:Released
+3036997:Automated -> DEV-29266:Released
+1984966:Automated -> DEV-29273:Released
+1984967:Automated -> DEV-29273:Released
+1984968:Automated -> DEV-29273:Released
+1984970:Automated -> DEV-29273:Released
+3133616:Automated -> DEV-29285:Released
+3133614:Automated -> DEV-29285:Released
+3133615:Automated -> DEV-29285:Released
+3133612:Automated -> DEV-29285:Released
+3145555:Automated -> DEV-29268:Released
+4714532:Automated -> DEV-31427:Released
+19045125:Automated -> DEV-38244:Released
+19340162:Automated -> DEV-39522:Released
+19340375:Automated -> DEV-39522:Released
+19279763:Automated -> DEV-39277:Released
+19364956:Automated -> DEV-39277:Released
+19364960:Automated -> DEV-39277:Released
+19051125:Automated -> DEV-38148:Released
+19051133:Automated -> DEV-38148:Released
+19062856:Automated -> DEV-38148:Released
+19062857:Automated -> DEV-38148:Released
+19062858:Automated -> DEV-38148:Released
+19062860:Automated -> DEV-38148:Released
+19049879:Automated -> DEV-38153:Released
+19049899:Automated -> DEV-38153:Released
+19047287:Automated -> DEV-38243:Released
+19049866:Automated -> DEV-38243:Released
+19049867:Automated -> DEV-38243:Released
+19049873:Automated -> DEV-38243:Released
+19049875:Automated -> DEV-38243:Released
+19049876:Automated -> DEV-38243:Released
+15850970:Automated -> DEV-38323:Cancelled
+15850976:Automated -> DEV-38324:Cancelled
+15850979:Automated -> DEV-38325:Failed QB
+15854045:Automated -> DEV-38314:Cancelled
+15854197:Automated -> DEV-38315:Cancelled
+15866453:Automated -> DEV-38322:Cancelled
+15877509:Automated -> DEV-38306:Open
+15884481:Automated -> DEV-38309:Failed QB
+15884546:Automated -> DEV-38308:Failed QB
+15884549:Automated -> DEV-38307:Failed QB
+15852107:Automated -> DEV-38294:Failed QB
+16044058:Automated -> DEV-38581:Cancelled
+14044856:Automated -> DEV-35896:Cancelled
+14044868:Automated -> DEV-35897:Cancelled
+14111369:Automated -> DEV-35901:Cancelled
+20381244:Automated -> DEV-39626:Cancelled
+20383666:Automated -> DEV-39626:Cancelled
+20383720:Automated -> DEV-39626:Cancelled
+24012799:Automated -> DEV-41242:Cancelled
+24012800:Automated -> DEV-41242:Cancelled
+24012801:Automated -> DEV-41242:Cancelled
+24012802:Automated -> DEV-41242:Cancelled
+24012803:Automated -> DEV-41242:Cancelled
+24012804:Automated -> DEV-41242:Cancelled
+24012805:Automated -> DEV-41242:Cancelled
+24012806:Automated -> DEV-41242:Cancelled
+24012807:Automated -> DEV-41242:Cancelled
+24012808:Automated -> DEV-41242:Cancelled
+25733592:Automated -> MOAFCID-31460:E2E PCA Review
+25731639:Automated -> MOAFCID-33139:E2E PCA Review
+25733697:Automated -> MOAFCID-34117:Automation Backlog
+25799069:Automated -> MOAFCID-38332:Failed QB
+26127793:Automated -> MOAFCID-39645:E2E PCA Review
+26134201:Automated -> MOAFCID-40098:E2E PCA Review
+26140742:Automated -> MOAFCID-40325:E2E PCA Review
+26477889:Automated -> MOAFCID-41527:E2E PCA Review
+26477895:Automated -> MOAFCID-41785:E2E PCA Review
+26478137:Automated -> MOAFCID-41688:E2E PCA Review
+25731102:Automated -> MOEMSCID-39227:Open
+25731218:Automated -> MOEMSCID-39562:Blocked
+25731219:Automated -> MOEMSCID-39564:Dependency Block
+25731363:Automated -> MOEMSCID-39970:Open
+25731580:Automated -> MOEMSCID-39756:Open
+25775598:Automated -> MOEMSCID-40296:Open
+4715204:Automated -> DEV-31427:Released
+1913336:Automated -> DEV-31411:Released
+1968961:Automated -> DEV-28519:Released
+1968944:Automated -> DEV-28519:Released
+1968948:Automated -> DEV-28519:Released
+1968953:Automated -> DEV-28519:Released
+1968959:Automated -> DEV-28519:Released
+1883469:Automated -> DEV-28526:Released
+1883470:Automated -> DEV-28526:Released
+1883471:Automated -> DEV-28526:Released
+1883474:Automated -> DEV-28526:Released
+1883475:Automated -> DEV-28526:Released
+1883476:Automated -> DEV-28526:Released
+2030305:Automated -> DEV-28528:Released
+2030317:Automated -> DEV-28528:Released
+2181801:Automated -> DEV-28528:Released
+2181802:Automated -> DEV-28528:Released
+1887274:Automated -> DEV-28529:Released
+2214698:Automated -> DEV-28528:Released
+2214700:Automated -> DEV-28528:Released
+1887301:Automated -> DEV-28530:Released
+2181820:Automated -> DEV-28530:Released
+1889307:Automated -> DEV-28527:Released
+1957568:Automated -> DEV-28524:Released
+1957569:Automated -> DEV-28524:Released
+1957731:Automated -> DEV-28811:Released
+1984519:Automated -> DEV-29262:Released
+1984526:Automated -> DEV-29262:Released
+1889142:Automated -> DEV-29276:Released
+1984800:Automated -> DEV-29276:Released
+1984802:Automated -> DEV-29276:Released
+1885268:Automated -> DEV-29260:Released
+1885274:Automated -> DEV-29260:Released
+1885282:Automated -> DEV-29260:Released
+1972945:Automated -> DEV-29260:Released
+1984513:Automated -> DEV-29263:Released
+1984518:Automated -> DEV-29263:Released
+1885257:Automated -> DEV-29285:Released
+1984532:Automated -> DEV-29285:Released
+1984945:Automated -> DEV-29277:Released
+1984946:Automated -> DEV-29277:Released
+2049840:Automated -> DEV-29268:Released
+1984521:Automated -> DEV-29262:Released
+1972931:Automated -> DEV-29260:Released
+1972952:Automated -> DEV-29261:Released
+2175438:Automated -> DEV-30256:Released
+2180231:Automated -> DEV-30256:Released
+2180777:Automated -> DEV-30256:Released
+1889391:Automated -> DEV-29286:Released
+1889146:Automated -> DEV-29277:Released
+1883364:Automated -> DEV-28518:Released
+1883430:Automated -> DEV-28518:Released
+1970030:Automated -> DEV-28518:Released
+1984535:Automated -> DEV-29267:Released
+1889145:Automated -> DEV-29277:Released
+1885292:Automated -> DEV-29265:Released
+2049842:Automated -> DEV-29278:Released
+2181825:Automated -> DEV-28530:Released
+2214786:Automated -> DEV-28530:Released
+1892609:Automated -> DEV-29286:Released
+1984536:Automated -> DEV-29266:Released
+1970031:Automated -> DEV-28518:Released
+1970032:Automated -> DEV-28518:Released
+1885293:Automated -> DEV-29268:Released
+1884174:Automated -> DEV-29270:Released
+1889147:Automated -> DEV-29278:Released
+1888123:Automated -> DEV-29299:Released
+1888124:Automated -> DEV-29299:Released
+1888125:Automated -> DEV-29299:Released
+1888126:Automated -> DEV-29299:Released
+1888127:Automated -> DEV-29299:Released
+1888128:Automated -> DEV-29299:Released
+1888146:Automated -> DEV-29299:Released
+1888147:Automated -> DEV-29299:Released
+1888148:Automated -> DEV-29299:Released
+1888149:Automated -> DEV-29299:Released
+1888150:Automated -> DEV-29299:Released
+1888151:Automated -> DEV-29299:Released
+1888152:Automated -> DEV-29299:Released
+1888153:Automated -> DEV-29299:Released
+1892578:Automated -> DEV-29299:Released
+1888129:Automated -> DEV-29857:Released
+1933444:Automated -> DEV-29301:Released
+1933445:Automated -> DEV-29301:Released
+1933450:Automated -> DEV-29301:Released
+1933451:Automated -> DEV-29301:Released
+1933452:Automated -> DEV-29301:Released
+1933453:Automated -> DEV-29301:Released
+1892579:Automated -> DEV-29299:Released
+1892607:Automated -> DEV-29299:Released
+2030334:Automated -> DEV-29301:Released
+5862902:Automated -> DEV-31430:Released
+5873983:Automated -> DEV-31430:Released
+4558160:Automated -> DEV-31410:Released
+1970033:Automated -> DEV-28520:Released
+1970034:Automated -> DEV-28520:Released
+1970036:Automated -> DEV-28520:Released
+1970037:Automated -> DEV-28520:Released
+1970041:Automated -> DEV-28520:Released
+1970039:Automated -> DEV-28520:Released
+1970038:Automated -> DEV-28520:Released
+3036994:Automated -> DEV-29266:Released
+3036997:Automated -> DEV-29266:Released
+1984966:Automated -> DEV-29273:Released
+1984967:Automated -> DEV-29273:Released
+1984968:Automated -> DEV-29273:Released
+1984970:Automated -> DEV-29273:Released
+3133616:Automated -> DEV-29285:Released
+3133614:Automated -> DEV-29285:Released
+3133615:Automated -> DEV-29285:Released
+3133612:Automated -> DEV-29285:Released
+3145555:Automated -> DEV-29268:Released
+4714532:Automated -> DEV-31427:Released
+19045125:Automated -> DEV-38244:Released
+19340162:Automated -> DEV-39522:Released
+19340375:Automated -> DEV-39522:Released
+19279763:Automated -> DEV-39277:Released
+19364956:Automated -> DEV-39277:Released
+19364960:Automated -> DEV-39277:Released
+19051125:Automated -> DEV-38148:Released
+19051133:Automated -> DEV-38148:Released
+19062856:Automated -> DEV-38148:Released
+19062857:Automated -> DEV-38148:Released
+19062858:Automated -> DEV-38148:Released
+19062860:Automated -> DEV-38148:Released
+19049879:Automated -> DEV-38153:Released
+19049899:Automated -> DEV-38153:Released
+19047287:Automated -> DEV-38243:Released
+19049866:Automated -> DEV-38243:Released
+19049867:Automated -> DEV-38243:Released
+19049873:Automated -> DEV-38243:Released
+19049875:Automated -> DEV-38243:Released
+19049876:Automated -> DEV-38243:Released
+15850970:Automated -> DEV-38323:Cancelled
+15850976:Automated -> DEV-38324:Cancelled
+15850979:Automated -> DEV-38325:Failed QB
+15854045:Automated -> DEV-38314:Cancelled
+15854197:Automated -> DEV-38315:Cancelled
+15866453:Automated -> DEV-38322:Cancelled
+15877509:Automated -> DEV-38306:Open
+15884481:Automated -> DEV-38309:Failed QB
+15884546:Automated -> DEV-38308:Failed QB
+15884549:Automated -> DEV-38307:Failed QB
+15852107:Automated -> DEV-38294:Failed QB
+16044058:Automated -> DEV-38581:Cancelled
+14044856:Automated -> DEV-35896:Cancelled
+14044868:Automated -> DEV-35897:Cancelled
+14111369:Automated -> DEV-35901:Cancelled
+20381244:Automated -> DEV-39626:Cancelled
+20383666:Automated -> DEV-39626:Cancelled
+20383720:Automated -> DEV-39626:Cancelled
+24012799:Automated -> DEV-41242:Cancelled
+24012800:Automated -> DEV-41242:Cancelled
+24012801:Automated -> DEV-41242:Cancelled
+24012802:Automated -> DEV-41242:Cancelled
+24012803:Automated -> DEV-41242:Cancelled
+24012804:Automated -> DEV-41242:Cancelled
+24012805:Automated -> DEV-41242:Cancelled
+24012806:Automated -> DEV-41242:Cancelled
+24012807:Automated -> DEV-41242:Cancelled
+24012808:Automated -> DEV-41242:Cancelled
+25733592:Automated -> MOAFCID-31460:E2E PCA Review
+25731639:Automated -> MOAFCID-33139:E2E PCA Review
+25733697:Automated -> MOAFCID-34117:Automation Backlog
+25799069:Automated -> MOAFCID-38332:Failed QB
+26127793:Automated -> MOAFCID-39645:E2E PCA Review
+26134201:Automated -> MOAFCID-40098:E2E PCA Review
+26140742:Automated -> MOAFCID-40325:E2E PCA Review
+26477889:Automated -> MOAFCID-41527:E2E PCA Review
+26477895:Automated -> MOAFCID-41785:E2E PCA Review
+26478137:Automated -> MOAFCID-41688:E2E PCA Review
+25731102:Automated -> MOEMSCID-39227:Open
+25731218:Automated -> MOEMSCID-39562:Blocked
+25731219:Automated -> MOEMSCID-39564:Dependency Block
+25731363:Automated -> MOEMSCID-39970:Open
+25731580:Automated -> MOEMSCID-39756:Open
+25775598:Automated -> MOEMSCID-40296:Open
+15945195:Automated -> MYAL-666:Cancelled
+15945197:Automated -> MYAL-666:Cancelled
+15945198:Automated -> MYAL-666:Cancelled
+15997604:Automated -> MYAL-667:Cancelled
+15997607:Automated -> MYAL-667:Cancelled
+15997608:Automated -> MYAL-667:Cancelled
+15997486:Automated -> MYAL-673:Cancelled
+15997487:Automated -> MYAL-673:Cancelled
+15997488:Automated -> MYAL-673:Cancelled
+15997496:Automated -> MYAL-673:Cancelled
+16028888:Automated -> MYAL-673:Cancelled
+15997495:Automated -> MYAL-2803:Cancelled
+15997500:Automated -> MYAL-3041:Cancelled
+15992133:Automated -> MYAL-669:Cancelled
+15993004:Automated -> MYAL-669:Cancelled
+15995585:Automated -> MYAL-669:Cancelled
+15995586:Automated -> MYAL-669:Cancelled
+16028890:Automated -> MYAL-669:Cancelled
+15996952:Automated -> MYAL-670:Cancelled
+15997153:Automated -> MYAL-670:Cancelled
+15997161:Automated -> MYAL-670:Cancelled
+15997166:Automated -> MYAL-3024:Automation Backlog
+15997460:Automated -> MYAL-670:Cancelled
+16028889:Automated -> MYAL-670:Cancelled
+16918088:Automated -> MYAL-674:Cancelled
+16918230:Automated -> MYAL-674:Cancelled
+26141190:Automated -> MYAL-3346:Cancelled
+18301768:Automated -> MYAL-2804:Cancelled
+17599400:Automated -> MYAL-2599:Cancelled
+17599401:Automated -> MYAL-2804:Cancelled
+17599402:Automated -> MYAL-2599:Cancelled
+17052177:Automated -> MYAL-2599:Cancelled
+17052172:Automated -> MYAL-2782:Cancelled
+17052171:Automated -> MYAL-1377:Cancelled
+17115612:Automated -> MYAL-1377:Cancelled
+17053139:Automated -> MYAL-2853:Cancelled
+17053142:Automated -> MYAL-2853:Cancelled
+17053148:Automated -> MYAL-2636:Cancelled
+17053154:Automated -> MYAL-2853:Cancelled
+17053151:Automated -> MYAL-2853:Cancelled
+17157865:Automated -> MYAL-2859:Cancelled
+17598092:Automated -> MYAL-2859:Cancelled
+17456728:Automated -> MYAL-2859:Cancelled
+17600096:Automated -> MYAL-2859:Cancelled
+18301860:Automated -> MYAL-1679:Cancelled
+17143126:Automated -> MYAL-2859:Cancelled
+17052175:Automated -> MYAL-2604:Cancelled
+18298842:Automated -> MYAL-2803:Cancelled
+17115693:Automated -> MYAL-2604:Cancelled
+17599940:Automated -> MYAL-2604:Cancelled
+17115681:Automated -> MYAL-2604:Cancelled
+17052176:Automated -> MYAL-2636:Cancelled
+18298872:Automated -> MYAL-2803:Cancelled
+17599927:Automated -> MYAL-2636:Cancelled
+17599942:Automated -> MYAL-2636:Cancelled
+17599928:Automated -> MYAL-2636:Cancelled
+17052178:Automated -> MYAL-2588:Cancelled
+17115690:Automated -> MYAL-2588:Cancelled
+17599941:Automated -> MYAL-2588:Cancelled
+17115668:Automated -> MYAL-2588:Cancelled
+17148008:Automated -> MYAL-2638:Cancelled
+18301824:Automated -> MYAL-2796:Cancelled
+17148366:Automated -> MYAL-2638:Cancelled
+17599943:Automated -> MYAL-2638:Cancelled
+17148374:Automated -> MYAL-2638:Cancelled
+17157853:Automated -> MYAL-2640:Cancelled
+18301825:Automated -> MYAL-2796:Cancelled
+17157859:Automated -> MYAL-2640:Cancelled
+17599944:Automated -> MYAL-2640:Cancelled
+17157861:Automated -> MYAL-2640:Cancelled
+17456723:Automated -> MYAL-2557:Cancelled
+18301836:Automated -> MYAL-2806:Cancelled
+17456724:Automated -> MYAL-2557:Cancelled
+17456725:Automated -> MYAL-2557:Cancelled
+17598087:Automated -> MYAL-2556:Cancelled
+18301844:Automated -> MYAL-2556:Cancelled
+17598088:Automated -> MYAL-2556:Cancelled
+17600058:Automated -> MYAL-2556:Cancelled
+17598089:Automated -> MYAL-2556:Cancelled
+17053130:Automated -> MYAL-2601:Cancelled
+18301850:Automated -> MYAL-2804:Cancelled
+17153502:Automated -> MYAL-2601:Cancelled
+17153503:Automated -> MYAL-2804:Cancelled
+17153505:Automated -> MYAL-2601:Cancelled
+17053133:Automated -> MYAL-2603:Cancelled
+18301852:Automated -> MYAL-2803:Cancelled
+17153509:Automated -> MYAL-2603:Cancelled
+17153510:Automated -> MYAL-2803:Cancelled
+17153511:Automated -> MYAL-2603:Cancelled
+17053945:Automated -> MYAL-2637:Cancelled
+18301857:Automated -> MYAL-2796:Cancelled
+17442429:Automated -> MYAL-2637:Cancelled
+17442432:Automated -> MYAL-2637:Cancelled
+17053946:Automated -> MYAL-2639:Cancelled
+18288797:Automated -> MYAL-2796:Cancelled
+17443192:Automated -> MYAL-2639:Cancelled
+17443193:Automated -> MYAL-2639:Cancelled
+17443194:Automated -> MYAL-2639:Cancelled
+17053944:Automated -> MYAL-2616:Cancelled
+17153514:Automated -> MYAL-2616:Cancelled
+17153515:Automated -> MYAL-2616:Cancelled
+17153516:Automated -> MYAL-2616:Cancelled
+17053948:Automated -> MYAL-2587:Cancelled
+17443212:Automated -> MYAL-2587:Cancelled
+17443215:Automated -> MYAL-2587:Cancelled
+18196328:Automated -> MYAL-1679:Cancelled
+18333191:Automated -> MYAL-1679:Cancelled
+18196329:Automated -> MYAL-1679:Cancelled
+18196330:Automated -> MYAL-1679:Cancelled
+18196333:Automated -> MYAL-1679:Cancelled
+17052173:Automated -> MYAL-1371:Cancelled
+18194636:Automated -> MYAL-1371:Cancelled
+18194637:Automated -> MYAL-1371:Cancelled
+18288814:Automated -> MYAL-1371:Cancelled
+17115608:Automated -> MYAL-1371:Cancelled
+17115604:Automated -> MYAL-1371:Cancelled
+17110690:Automated -> MYAL-1371:Cancelled
+17053966:Automated -> MYAL-1375:Cancelled
+17115633:Automated -> MYAL-1375:Cancelled
+17053977:Automated -> MYAL-1375:Cancelled
+17052174:Automated -> MYAL-2602:Cancelled
+18294483:Automated -> MYAL-2804:Cancelled
+17115691:Automated -> MYAL-2602:Cancelled
+17599939:Automated -> MYAL-2853:Cancelled
+17115676:Automated -> MYAL-2602:Cancelled
+15942713:Automated -> MYAL-678:Cancelled
+15942716:Automated -> MYAL-678:Cancelled
+15942789:Automated -> MYAL-678:Cancelled
+15942790:Automated -> MYAL-678:Cancelled
+15945222:Automated -> MYAL-678:Cancelled
+15945213:Automated -> MYAL-679:Cancelled
+15945215:Automated -> MYAL-2964:Cancelled
+15945216:Automated -> MYAL-679:Cancelled
+15945217:Automated -> MYAL-679:Cancelled
+15945218:Automated -> MYAL-679:Cancelled
+15945219:Automated -> MYAL-679:Cancelled
+15945224:Automated -> MYAL-679:Cancelled
+15997613:Automated -> MYAL-680:Cancelled
+15997615:Automated -> MYAL-680:Cancelled
+15997616:Automated -> MYAL-680:Cancelled
+15997620:Automated -> MYAL-680:Cancelled
+19104834:Automated -> MYAL-680:Cancelled
+15997626:Automated -> MYAL-681:Cancelled
+15997627:Automated -> MYAL-681:Cancelled
+15997629:Automated -> MYAL-681:Cancelled
+15997630:Automated -> MYAL-681:Cancelled
+15997631:Automated -> MYAL-681:Cancelled
+15997635:Automated -> MYAL-681:Cancelled
+20351603:Automated -> MYAL-10627:Cancelled
+18185530:Automated -> MYAL-2104:Cancelled
+20168222:Automated -> MYAL-3312:Cancelled
+19118431:Automated -> MYAL-678:Cancelled
+19118432:Automated -> MYAL-678:Cancelled
+26144090:Automated -> MYAL-3193:Automation Backlog
+25765779:Automated -> NORTHP-20171:Pending TC Replacement
+25741442:Automated -> NORTHP-15829:Automation Backlog
+25739581:Automated -> NORTHP-16593:Backlog
+26433599:Automated -> NORTHP-23723:E2E PCA Review
+25771642:Automated -> XINET-11779:Automation Backlog
+25733844:Automated -> XINET-10301:Cancelled
+25754562:Automated -> XINET-8677:Cancelled
+25768792:Automated -> XINET-9047:Open
+25775502:Automated -> XINET-11775:Automation Backlog
+25775512:Automated -> XINET-11777:In Writing
+25603702:Automated -> XINET-14685:Automation Backlog
+25603740:Automated -> XINET-14685:Automation Backlog
+25606019:Automated -> XINET-14685:Automation Backlog
+25606041:Automated -> XINET-14685:Automation Backlog
+25606118:Automated -> XINET-14685:Automation Backlog
+25739747:Automated -> XINET-11422:Failed E2E Review
+25759549:Automated -> XINET-11682:Automation Backlog
+25775374:Automated -> XINET-11766:Open
+25775382:Automated -> XINET-11770:Open
+25775496:Automated -> XINET-11764:Open
+25762692:Automated -> XINET-11694:Open
+25762606:Automated -> XINET-11690:Open
+25779518:Automated -> XINET-11794:Automation Backlog
+26146422:Automated -> XINET-13119:Open
+26154626:Automated -> XINET-12799:Failed E2E Review
+26164520:Automated -> XINET-13333:Open
+26192376:Automated -> XINET-13692:Open
+26458231:Automated -> XINET-14697:Open
+26490884:Automated -> XINET-14561:Open
+26491008:Automated -> XINET-14572:Open
+26493085:Automated -> XINET-14700:In Writing
+15438942:Automated -> OLIVES-875:Pending TC Replacement
+15438948:Automated -> OLIVES-875:Pending TC Replacement
+15438956:Automated -> OLIVES-875:Pending TC Replacement
+15439005:Automated -> OLIVES-875:Pending TC Replacement
+15475444:Automated -> OLIVES-337:Pending TC Replacement
+15355228:Automated -> OLIVES-3369:Open
+22412535:Automated -> OLIVES-6296:Open
+22412556:Automated -> OLIVES-6296:Open
+22412614:Automated -> OLIVES-6296:Open
+22412636:Automated -> OLIVES-6296:Open
+22412637:Automated -> OLIVES-6296:Open
+22412731:Automated -> OLIVES-6296:Open
+22412732:Automated -> OLIVES-6296:Open
+22412754:Automated -> OLIVES-6296:Open
+22412755:Automated -> OLIVES-6296:Open
+22409145:Automated -> OLIVES-6296:Open
+22412855:Automated -> OLIVES-6296:Open
+22412870:Automated -> OLIVES-6296:Open
+22423358:Automated -> OLIVES-6349:Open
+22972423:Automated -> OLIVES-6349:Open
+22423406:Automated -> OLIVES-6349:Open
+22423445:Automated -> OLIVES-6349:Open
+22423468:Automated -> OLIVES-6349:Open
+22439544:Automated -> OLIVES-6349:Open
+22439549:Automated -> OLIVES-6349:Open
+22426312:Automated -> OLIVES-6326:Open
+22426327:Automated -> OLIVES-6326:Open
+22426333:Automated -> OLIVES-6326:Open
+22426334:Automated -> OLIVES-6326:Open
+22460821:Automated -> OLIVES-6564:Open
+22880602:Automated -> OLIVES-6564:Open
+22880603:Automated -> OLIVES-6564:Open
+22880608:Automated -> OLIVES-6564:Open
+22880604:Automated -> OLIVES-6564:Open
+22425412:Automated -> OLIVES-6295:Open
+22429374:Automated -> OLIVES-6295:Open
+22424555:Automated -> OLIVES-6295:Open
+22424556:Automated -> OLIVES-6295:Open
+22424557:Automated -> OLIVES-6295:Open
+22424558:Automated -> OLIVES-6295:Open
+22424559:Automated -> OLIVES-6295:Open
+22424560:Automated -> OLIVES-6295:Open
+22429424:Automated -> OLIVES-6295:Open
+22429425:Automated -> OLIVES-6295:Open
+22429426:Automated -> OLIVES-6295:Open
+22429427:Automated -> OLIVES-6295:Open
+22429428:Automated -> OLIVES-6295:Open
+22429433:Automated -> OLIVES-6295:Open
+22429434:Automated -> OLIVES-6295:Open
+22325001:Automated -> OLIVES-6015:Open
+22325025:Automated -> OLIVES-6015:Open
+22325054:Automated -> OLIVES-6015:Open
+22325070:Automated -> OLIVES-6015:Open
+22325100:Automated -> OLIVES-6015:Open
+22325532:Automated -> OLIVES-6017:Open
+22325536:Automated -> OLIVES-6017:Open
+22325540:Automated -> OLIVES-6017:Open
+22325545:Automated -> OLIVES-6017:Open
+22326142:Automated -> OLIVES-6017:Open
+15405141:Automated -> OLIVES-333:Open
+15405146:Automated -> OLIVES-333:Open
+15405147:Automated -> OLIVES-333:Open
+15405149:Automated -> OLIVES-333:Open
+15405154:Automated -> OLIVES-335:Pending TC Replacement
+15405156:Automated -> OLIVES-335:Pending TC Replacement
+15405158:Automated -> OLIVES-335:Pending TC Replacement
+15405159:Automated -> OLIVES-335:Pending TC Replacement
+15463716:Automated -> OLIVES-339:Pending TC Replacement
+15463714:Automated -> OLIVES-339:Pending TC Replacement
+15475231:Automated -> OLIVES-336:Pending TC Replacement
+15475485:Automated -> OLIVES-337:Pending TC Replacement
+15477890:Automated -> OLIVES-340:Pending TC Replacement
+15478293:Automated -> OLIVES-340:Pending TC Replacement
+22324968:Automated -> OLIVES-6015:Open
+14474248:Automated -> OLIVES-3342:Open
+14474250:Automated -> OLIVES-3342:Open
+14595378:Automated -> OLIVES-9063:Released
+14595409:Automated -> OLIVES-3396:Failed QB
+14606651:Automated -> OLIVES-1168:Pending TC Replacement
+14618016:Automated -> OLIVES-1168:Pending TC Replacement
+14618017:Automated -> OLIVES-1168:Pending TC Replacement
+14618305:Automated -> OLIVES-1168:Pending TC Replacement
+14618309:Automated -> OLIVES-1168:Pending TC Replacement
+14618317:Automated -> OLIVES-1168:Pending TC Replacement
+14618321:Automated -> OLIVES-1168:Pending TC Replacement
+15140677:Automated -> OLIVES-1169:Pending TC Replacement
+15160721:Automated -> OLIVES-1169:Pending TC Replacement
+15208002:Automated -> OLIVES-1169:Pending TC Replacement
+15208021:Automated -> OLIVES-1170:Pending TC Replacement
+15208030:Automated -> OLIVES-1170:Pending TC Replacement
+15208031:Automated -> OLIVES-1170:Pending TC Replacement
+15208084:Automated -> OLIVES-1170:Pending TC Replacement
+14917368:Automated -> OLIVES-3359:Open
+14734325:Automated -> OLIVES-918:Pending TC Replacement
+14734326:Automated -> OLIVES-918:Pending TC Replacement
+14734331:Automated -> OLIVES-918:Pending TC Replacement
+14734334:Automated -> OLIVES-918:Pending TC Replacement
+14917279:Automated -> OLIVES-919:Pending TC Replacement
+15025927:Automated -> OLIVES-5854:Failed QB
+15027618:Automated -> OLIVES-5956:Cancelled
+15706180:Automated -> OLIVES-5854:Failed QB
+15288671:Automated -> OLIVES-3161:Failed QB
+15264099:Automated -> OLIVES-920:Pending TC Replacement
+15264108:Automated -> OLIVES-920:Pending TC Replacement
+15265945:Automated -> OLIVES-920:Pending TC Replacement
+15265113:Automated -> OLIVES-920:Pending TC Replacement
+15265114:Automated -> OLIVES-920:Pending TC Replacement
+15265115:Automated -> OLIVES-920:Pending TC Replacement
+15900693:Automated -> OLIVES-915:Pending TC Replacement
+15931506:Automated -> OLIVES-915:Pending TC Replacement
+15966988:Automated -> OLIVES-915:Pending TC Replacement
+15997781:Automated -> OLIVES-924:Cancelled
+16642245:Automated -> OLIVES-923:Pending TC Replacement
+16991745:Automated -> OLIVES-923:Pending TC Replacement
+16024941:Automated -> OLIVES-2462:Cancelled
+20160679:Automated -> OLIVES-2661:Released
+20160904:Automated -> OLIVES-2661:Released
+20161652:Automated -> OLIVES-2661:Released
+20836733:Automated -> OLIVES-4073:Cancelled
+20836734:Automated -> OLIVES-4073:Cancelled
+20836735:Automated -> OLIVES-4073:Cancelled
+20836736:Automated -> OLIVES-4073:Cancelled
+22929811:Automated -> OLIVES-6376:Open
+22018938:Automated -> OLIVES-8148:Failed QB
+22018939:Automated -> OLIVES-8148:Failed QB
+22018940:Automated -> OLIVES-8148:Failed QB
+22018941:Automated -> OLIVES-8148:Failed QB
+22018942:Automated -> OLIVES-8148:Failed QB
+22970415:Automated -> OLIVES-8121:Cancelled
+22970521:Automated -> OLIVES-8121:Cancelled
+22970495:Automated -> OLIVES-8121:Cancelled
+22970519:Automated -> OLIVES-8121:Cancelled
+22970440:Automated -> OLIVES-8121:Cancelled
+22970523:Automated -> OLIVES-8121:Cancelled
+22018991:Automated -> OLIVES-8202:Failed QB
+22019688:Automated -> OLIVES-8181:Cancelled
+22019689:Automated -> OLIVES-8181:Cancelled
+22018972:Automated -> OLIVES-8222:Cancelled
+22021056:Automated -> OLIVES-7979:Open
+22021057:Automated -> OLIVES-7979:Open
+22019704:Automated -> OLIVES-8099:Cancelled
+22019716:Automated -> OLIVES-8054:Cancelled
+22019728:Automated -> OLIVES-8169:Open
+22018696:Automated -> OLIVES-8153:Pending TC Replacement
+22018701:Automated -> OLIVES-8153:Pending TC Replacement
+22018710:Automated -> OLIVES-8153:Pending TC Replacement
+22018715:Automated -> OLIVES-8212:Failed QB
+22018727:Automated -> OLIVES-8112:Cancelled
+22983829:Automated -> OLIVES-8143:Cancelled
+22983830:Automated -> OLIVES-8143:Cancelled
+22983831:Automated -> OLIVES-8143:Cancelled
+22983832:Automated -> OLIVES-8143:Cancelled
+22983833:Automated -> OLIVES-8143:Cancelled
+22983834:Automated -> OLIVES-8143:Cancelled
+20184994:Automated -> OSCMENT-29:Open
+21504579:Automated -> OSCMENT-29:Open
+22435186:Automated -> ONYX-1153:Cancelled
+22434718:Automated -> ONYX-1153:Cancelled
+22435374:Automated -> ONYX-1153:Cancelled
+22434762:Automated -> ONYX-1153:Cancelled
+22435104:Automated -> ONYX-1153:Cancelled
+22435464:Automated -> ONYX-1153:Cancelled
+22435433:Automated -> ONYX-1153:Cancelled
+22435429:Automated -> ONYX-1153:Cancelled
+22435485:Automated -> ONYX-1153:Cancelled
+22435506:Automated -> ONYX-1153:Cancelled
+22435512:Automated -> ONYX-1153:Cancelled
+22435837:Automated -> ONYX-1153:Cancelled
+22436437:Automated -> ONYX-1153:Cancelled
+22435288:Automated -> ONYX-1153:Cancelled
+22436446:Automated -> ONYX-1153:Cancelled
+22436458:Automated -> ONYX-1153:Cancelled
+22437370:Automated -> ONYX-1153:Cancelled
+22437351:Automated -> ONYX-1153:Cancelled
+22437552:Automated -> ONYX-1153:Cancelled
+22438850:Automated -> ONYX-1153:Cancelled
+23176638:Automated -> ONYX-1142:Cancelled
+23176639:Automated -> ONYX-1142:Cancelled
+23177382:Automated -> ONYX-1142:Cancelled
+23177785:Automated -> ONYX-1142:Cancelled
+23177875:Automated -> ONYX-1142:Cancelled
+23176640:Automated -> ONYX-1142:Cancelled
+23177955:Automated -> ONYX-1142:Cancelled
+23176641:Automated -> ONYX-1142:Cancelled
+23176642:Automated -> ONYX-1142:Cancelled
+23176643:Automated -> ONYX-1142:Cancelled
+23176644:Automated -> ONYX-1142:Cancelled
+23176645:Automated -> ONYX-1142:Cancelled
+23176646:Automated -> ONYX-1142:Cancelled
+23176647:Automated -> ONYX-1142:Cancelled
+23176648:Automated -> ONYX-1142:Cancelled
+23178497:Automated -> ONYX-1142:Cancelled
+23169777:Automated -> ONYX-1305:Cancelled
+23169778:Automated -> ONYX-1305:Cancelled
+23169779:Automated -> ONYX-1305:Cancelled
+23169823:Automated -> ONYX-1305:Cancelled
+23169834:Automated -> ONYX-1305:Cancelled
+23171457:Automated -> ONYX-1305:Cancelled
+23193333:Automated -> ONYX-1305:Cancelled
+23193378:Automated -> ONYX-1305:Cancelled
+23193387:Automated -> ONYX-1305:Cancelled
+23193399:Automated -> ONYX-1305:Cancelled
+23193416:Automated -> ONYX-1305:Cancelled
+23194058:Automated -> ONYX-1305:Cancelled
+23178871:Automated -> ONYX-1303:Backlog
+23178926:Automated -> ONYX-1303:Backlog
+23179050:Automated -> ONYX-1303:Backlog
+23179059:Automated -> ONYX-1303:Backlog
+23179084:Automated -> ONYX-1303:Backlog
+23179100:Automated -> ONYX-1303:Backlog
+23179115:Automated -> ONYX-1303:Backlog
+23179163:Automated -> ONYX-1303:Backlog
+23179164:Automated -> ONYX-1303:Backlog
+23179166:Automated -> ONYX-1303:Backlog
+23179167:Automated -> ONYX-1303:Backlog
+23179168:Automated -> ONYX-1303:Backlog
+23179171:Automated -> ONYX-1303:Backlog
+23179189:Automated -> ONYX-1303:Backlog
+23184285:Automated -> ONYX-1303:Backlog
+23184296:Automated -> ONYX-1303:Backlog
+23184306:Automated -> ONYX-1303:Backlog
+23179178:Automated -> ONYX-1303:Backlog
+23179179:Automated -> ONYX-1303:Backlog
+23179180:Automated -> ONYX-1303:Backlog
+23179181:Automated -> ONYX-1303:Backlog
+23179182:Automated -> ONYX-1303:Backlog
+23184414:Automated -> ONYX-1303:Backlog
+23184415:Automated -> ONYX-1303:Backlog
+23184416:Automated -> ONYX-1303:Backlog
+23184442:Automated -> ONYX-1303:Backlog
+23184443:Automated -> ONYX-1303:Backlog
+23184444:Automated -> ONYX-1303:Backlog
+23184445:Automated -> ONYX-1303:Backlog
+23184874:Automated -> ONYX-1303:Backlog
+23184877:Automated -> ONYX-1303:Backlog
+23184879:Automated -> ONYX-1303:Backlog
+23184880:Automated -> ONYX-1303:Backlog
+23184881:Automated -> ONYX-1303:Backlog
+23184882:Automated -> ONYX-1303:Backlog
+23184883:Automated -> ONYX-1303:Backlog
+23184884:Automated -> ONYX-1303:Backlog
+23184885:Automated -> ONYX-1303:Backlog
+23184886:Automated -> ONYX-1303:Backlog
+23184887:Automated -> ONYX-1303:Backlog
+23184888:Automated -> ONYX-1303:Backlog
+23184889:Automated -> ONYX-1303:Backlog
+23184890:Automated -> ONYX-1303:Backlog
+23185208:Automated -> ONYX-1303:Backlog
+23195767:Automated -> ONYX-1295:Cancelled
+23195768:Automated -> ONYX-1295:Cancelled
+23195769:Automated -> ONYX-1295:Cancelled
+23195770:Automated -> ONYX-1295:Cancelled
+23195771:Automated -> ONYX-1295:Cancelled
+23195772:Automated -> ONYX-1295:Cancelled
+23195773:Automated -> ONYX-1295:Cancelled
+23195774:Automated -> ONYX-1295:Cancelled
+23195775:Automated -> ONYX-1295:Cancelled
+23195776:Automated -> ONYX-1295:Cancelled
+23195777:Automated -> ONYX-1295:Cancelled
+23195778:Automated -> ONYX-1295:Cancelled
+22896046:Automated -> ONYX-155:Cancelled
+22896066:Automated -> ONYX-155:Cancelled
+22896259:Automated -> ONYX-155:Cancelled
+22980979:Automated -> ONYX-1133:Cancelled
+22981062:Automated -> ONYX-1133:Cancelled
+22981110:Automated -> ONYX-1133:Cancelled
+22981129:Automated -> ONYX-1133:Cancelled
+22981136:Automated -> ONYX-1133:Cancelled
+22981144:Automated -> ONYX-1133:Cancelled
+22981340:Automated -> ONYX-1133:Cancelled
+22981348:Automated -> ONYX-1133:Cancelled
+22997740:Automated -> ONYX-1131:Cancelled
+22997741:Automated -> ONYX-1131:Cancelled
+22997742:Automated -> ONYX-1131:Cancelled
+22997743:Automated -> ONYX-1131:Cancelled
+22997744:Automated -> ONYX-1131:Cancelled
+22997745:Automated -> ONYX-1131:Cancelled
+23173173:Automated -> ONYX-1143:Cancelled
+23175363:Automated -> ONYX-1143:Cancelled
+23175374:Automated -> ONYX-1143:Cancelled
+23175391:Automated -> ONYX-1143:Cancelled
+23175434:Automated -> ONYX-1143:Cancelled
+23175469:Automated -> ONYX-1143:Cancelled
+23175476:Automated -> ONYX-1143:Cancelled
+25754640:Automated -> ONYX-4185:Pending TC Replacement
+22431076:Automated -> ONYX-151:Cancelled
+22431148:Automated -> ONYX-151:Cancelled
+22431204:Automated -> ONYX-151:Cancelled
+22431275:Automated -> ONYX-151:Cancelled
+22431278:Automated -> ONYX-151:Cancelled
+22431418:Automated -> ONYX-151:Cancelled
+22431442:Automated -> ONYX-151:Cancelled
+22431636:Automated -> ONYX-151:Cancelled
+22431663:Automated -> ONYX-151:Cancelled
+22431688:Automated -> ONYX-151:Cancelled
+22434715:Automated -> ONYX-151:Cancelled
+22434733:Automated -> ONYX-151:Cancelled
+22434748:Automated -> ONYX-151:Cancelled
+22434756:Automated -> ONYX-151:Cancelled
+22434765:Automated -> ONYX-151:Cancelled
+22908485:Automated -> ONYX-152:Cancelled
+22908547:Automated -> ONYX-152:Cancelled
+22908544:Automated -> ONYX-152:Cancelled
+22908596:Automated -> ONYX-152:Cancelled
+22908600:Automated -> ONYX-152:Cancelled
+22909518:Automated -> ONYX-152:Cancelled
+22909519:Automated -> ONYX-152:Cancelled
+22908608:Automated -> ONYX-152:Cancelled
+22908633:Automated -> ONYX-152:Cancelled
+22908637:Automated -> ONYX-152:Cancelled
+22908640:Automated -> ONYX-152:Cancelled
+22908649:Automated -> ONYX-152:Cancelled
+22908666:Automated -> ONYX-152:Cancelled
+22908670:Automated -> ONYX-152:Cancelled
+22908673:Automated -> ONYX-152:Cancelled
+22908680:Automated -> ONYX-152:Cancelled
+22908683:Automated -> ONYX-152:Cancelled
+22908692:Automated -> ONYX-152:Cancelled
+22909124:Automated -> ONYX-152:Cancelled
+22909492:Automated -> ONYX-152:Cancelled
+22913526:Automated -> ONYX-154:Cancelled
+22977203:Automated -> ONYX-154:Cancelled
+23002743:Automated -> ONYX-154:Cancelled
+23003278:Automated -> ONYX-154:Cancelled
+23003336:Automated -> ONYX-154:Cancelled
+23003374:Automated -> ONYX-154:Cancelled
+23003377:Automated -> ONYX-154:Cancelled
+23002728:Automated -> ONYX-154:Cancelled
+23002765:Automated -> ONYX-154:Cancelled
+23003039:Automated -> ONYX-154:Cancelled
+23003063:Automated -> ONYX-154:Cancelled
+23003087:Automated -> ONYX-154:Cancelled
+23003103:Automated -> ONYX-154:Cancelled
+23003111:Automated -> ONYX-154:Cancelled
+23003122:Automated -> ONYX-154:Cancelled
+23003128:Automated -> ONYX-154:Cancelled
+23003156:Automated -> ONYX-154:Cancelled
+23003162:Automated -> ONYX-154:Cancelled
+23003170:Automated -> ONYX-154:Cancelled
+23003187:Automated -> ONYX-154:Cancelled
+23003194:Automated -> ONYX-154:Cancelled
+23003198:Automated -> ONYX-154:Cancelled
+23003227:Automated -> ONYX-154:Cancelled
+22902446:Automated -> ONYX-156:Cancelled
+22902483:Automated -> ONYX-156:Cancelled
+22902496:Automated -> ONYX-156:Cancelled
+22902504:Automated -> ONYX-156:Cancelled
+22902510:Automated -> ONYX-156:Cancelled
+22902532:Automated -> ONYX-156:Cancelled
+22902549:Automated -> ONYX-156:Cancelled
+22902605:Automated -> ONYX-156:Cancelled
+22902613:Automated -> ONYX-156:Cancelled
+22902619:Automated -> ONYX-156:Cancelled
+22902625:Automated -> ONYX-156:Cancelled
+22902632:Automated -> ONYX-156:Cancelled
+22902639:Automated -> ONYX-156:Cancelled
+22902647:Automated -> ONYX-156:Cancelled
+26349118:Automated -> ONYX-6512:Automation Backlog
+2248298:Automated -> PLACEABLE-11451:Cancelled
+2249679:Automated -> PLACEABLE-11451:Cancelled
+2056492:Automated -> PLACEABLE-11598:Cancelled
+1314580:Automated -> PLACEABLE-11553:Cancelled
+1314581:Automated -> PLACEABLE-11553:Cancelled
+25746100:Automated -> PROLOGICCID-6472:Cancelled
+25600673:Automated -> PROLOGICCID-8817:Released
+25600674:Automated -> PROLOGICCID-8817:Released
+25600675:Automated -> PROLOGICCID-8817:Released
+25775191:Automated -> PROLOGICCID-8454:Automation Backlog
+25511354:Automated -> PROLOGICCID-8469:Released
+25511357:Automated -> PROLOGICCID-8469:Released
+25511363:Automated -> PROLOGICCID-8469:Released
+25511365:Automated -> PROLOGICCID-8469:Released
+25511401:Automated -> PROLOGICCID-8469:Released
+25519552:Automated -> PROLOGICCID-8469:Released
+25519567:Automated -> PROLOGICCID-8469:Released
+25519705:Automated -> PROLOGICCID-8469:Released
+25519915:Automated -> PROLOGICCID-8469:Released
+25519916:Automated -> PROLOGICCID-8469:Released
+25521109:Automated -> PROLOGICCID-8469:Released
+25521111:Automated -> PROLOGICCID-8469:Released
+25521113:Automated -> PROLOGICCID-8469:Released
+25811326:Automated -> PROLOGICCID-8739:Automation Backlog
+25620816:Automated -> PROLOGICCID-5437:Automation Backlog
+25740824:Automated -> PROLOGICCID-9872:Automation Backlog
+25735292:Automated -> PROLOGICCID-8661:Automation Backlog
+18285191:Automated -> PROLOGICCID-6031:Released
+18285192:Automated -> PROLOGICCID-6031:Released
+18286269:Automated -> PROLOGICCID-6031:Released
+18286254:Automated -> PROLOGICCID-6031:Released
+18286268:Automated -> PROLOGICCID-6031:Released
+18368259:Automated -> PROLOGICCID-2769:Released
+25807325:Automated -> PROLOGICCID-6479:Cancelled
+25806420:Automated -> PROLOGICCID-7575:Automation Backlog
+25785104:Automated -> PROLOGICCID-5319:Automation Backlog
+25803532:Automated -> PROLOGICCID-7702:Automation Backlog
+26058548:Automated -> PROLOGICCID-5413:Automation Backlog
+26086456:Automated -> PROLOGICCID-12832:Automation Backlog
+26146603:Automated -> PROLOGICCID-9025:Automation Backlog
+26147396:Automated -> PROLOGICCID-9037:Automation Backlog
+26193504:Automated -> PROLOGICCID-13874:Automation Backlog
+26193748:Automated -> PROLOGICCID-13884:Automation Backlog
+26193800:Automated -> PROLOGICCID-13875:Automation Backlog
+1307433:Automated -> CPQCID-3245:Released
+1329557:Automated -> CPQCID-3520:Released
+1329603:Automated -> CPQCID-3524:Released
+1737510:Automated -> CPQCID-3521:Released
+1906443:Automated -> CPQCID-3531:Released
+1906474:Automated -> CPQCID-3530:Released
+1917505:Automated -> CPQCID-3529:Released
+1892570:Automated -> CPQCID-3452:Released
+1906627:Automated -> CPQCID-3457:Released
+1906654:Automated -> CPQCID-3460:Released
+1906817:Automated -> CPQCID-3461:Released
+1917845:Automated -> CPQCID-3469:Released
+6821457:Automated -> CPQCID-4726:Released
+23970770:Automated -> TBGTM-290:Cancelled
+23970792:Automated -> TBGTM-290:Cancelled
+23970829:Automated -> TBGTM-290:Cancelled
+23970832:Automated -> TBGTM-290:Cancelled
+23970867:Automated -> TBGTM-290:Cancelled
+23188062:Automated -> TBGTM-297:Cancelled
+23188150:Automated -> TBGTM-297:Cancelled
+23188176:Automated -> TBGTM-297:Cancelled
+23188241:Automated -> TBGTM-297:Cancelled
+23188227:Automated -> TBGTM-297:Cancelled
+23188252:Automated -> TBGTM-297:Cancelled
+23189616:Automated -> TBGTM-298:Cancelled
+23189632:Automated -> TBGTM-298:Cancelled
+23189633:Automated -> TBGTM-298:Cancelled
+23189678:Automated -> TBGTM-298:Cancelled
+23189679:Automated -> TBGTM-298:Cancelled
+23189680:Automated -> TBGTM-298:Cancelled
+23205628:Automated -> TBGTM-289:Cancelled
+23205642:Automated -> TBGTM-289:Cancelled
+23205650:Automated -> TBGTM-289:Cancelled
+23205697:Automated -> TBGTM-289:Cancelled
+23205715:Automated -> TBGTM-289:Cancelled
+23202516:Automated -> TBGTM-280:Cancelled
+23202558:Automated -> TBGTM-280:Cancelled
+23202563:Automated -> TBGTM-280:Cancelled
+23202601:Automated -> TBGTM-280:Cancelled
+23202576:Automated -> TBGTM-280:Cancelled
+23202591:Automated -> TBGTM-280:Cancelled
+23202593:Automated -> TBGTM-280:Cancelled
+23202598:Automated -> TBGTM-280:Cancelled
+25247190:Automated -> SCLOOPM-275:Cancelled
+23184389:Automated -> SCLOOPM-275:Cancelled
+23184390:Automated -> SCLOOPM-275:Cancelled
+23184391:Automated -> SCLOOPM-275:Cancelled
+23184392:Automated -> SCLOOPM-275:Cancelled
+23184393:Automated -> SCLOOPM-275:Cancelled
+23184394:Automated -> SCLOOPM-275:Cancelled
+23184395:Automated -> SCLOOPM-275:Cancelled
+23184396:Automated -> SCLOOPM-275:Cancelled
+23184397:Automated -> SCLOOPM-275:Cancelled
+23184398:Automated -> SCLOOPM-275:Cancelled
+23184399:Automated -> SCLOOPM-275:Cancelled
+23184400:Automated -> SCLOOPM-275:Cancelled
+23184401:Automated -> SCLOOPM-275:Cancelled
+23184402:Automated -> SCLOOPM-275:Cancelled
+23184403:Automated -> SCLOOPM-275:Cancelled
+23184404:Automated -> SCLOOPM-275:Cancelled
+23184405:Automated -> SCLOOPM-275:Cancelled
+23184406:Automated -> SCLOOPM-275:Cancelled
+23184407:Automated -> SCLOOPM-275:Cancelled
+23184408:Automated -> SCLOOPM-275:Cancelled
+23990931:Automated -> SCLOOPM-419:Cancelled
+23990932:Automated -> SCLOOPM-419:Cancelled
+23990933:Automated -> SCLOOPM-419:Cancelled
+23990934:Automated -> SCLOOPM-419:Cancelled
+23990935:Automated -> SCLOOPM-419:Cancelled
+23990936:Automated -> SCLOOPM-419:Cancelled
+23990937:Automated -> SCLOOPM-419:Cancelled
+23990938:Automated -> SCLOOPM-419:Cancelled
+23990939:Automated -> SCLOOPM-419:Cancelled
+23990940:Automated -> SCLOOPM-419:Cancelled
+23990941:Automated -> SCLOOPM-419:Cancelled
+23991012:Automated -> SCLOOPM-419:Cancelled
+24340717:Automated -> SCLOOPW-399:Closed
+24340718:Automated -> SCLOOPW-399:Closed
+24340720:Automated -> SCLOOPW-399:Closed
+24340721:Automated -> SCLOOPW-399:Closed
+24340722:Automated -> SCLOOPW-399:Closed
+24340723:Automated -> SCLOOPW-399:Closed
+26067450:Automated -> SCLOOPM-3054:E2E PCA Review
+22137127:Automated -> SCLOOPW-68:Open
+22137155:Automated -> SCLOOPW-68:Open
+22137162:Automated -> SCLOOPW-68:Open
+22137164:Automated -> SCLOOPW-68:Open
+22295653:Automated -> SCLOOPW-237:Cancelled
+22295852:Automated -> SCLOOPW-237:Cancelled
+22295873:Automated -> SCLOOPW-237:Cancelled
+22295891:Automated -> SCLOOPW-237:Cancelled
+22295905:Automated -> SCLOOPW-237:Cancelled
+22295911:Automated -> SCLOOPW-237:Cancelled
+22295915:Automated -> SCLOOPW-237:Cancelled
+22295960:Automated -> SCLOOPW-237:Cancelled
+22296017:Automated -> SCLOOPW-237:Cancelled
+22296027:Automated -> SCLOOPW-237:Cancelled
+22296055:Automated -> SCLOOPW-235:Cancelled
+22296056:Automated -> SCLOOPW-235:Cancelled
+22296096:Automated -> SCLOOPW-235:Cancelled
+22296146:Automated -> SCLOOPW-235:Cancelled
+22296151:Automated -> SCLOOPW-235:Cancelled
+22296153:Automated -> SCLOOPW-235:Cancelled
+22296178:Automated -> SCLOOPW-235:Cancelled
+22296184:Automated -> SCLOOPW-235:Cancelled
+22296829:Automated -> SCLOOPW-235:Cancelled
+22296835:Automated -> SCLOOPW-235:Cancelled
+22296843:Automated -> SCLOOPW-235:Cancelled
+22296844:Automated -> SCLOOPW-235:Cancelled
+22296874:Automated -> SCLOOPW-235:Cancelled
+22296882:Automated -> SCLOOPW-235:Cancelled
+22296883:Automated -> SCLOOPW-235:Cancelled
+22297343:Automated -> SCLOOPW-235:Cancelled
+22296894:Automated -> SCLOOPW-235:Cancelled
+22297096:Automated -> SCLOOPW-234:Cancelled
+22297097:Automated -> SCLOOPW-234:Cancelled
+22297167:Automated -> SCLOOPW-234:Cancelled
+22297182:Automated -> SCLOOPW-234:Cancelled
+22297214:Automated -> SCLOOPW-234:Cancelled
+22297223:Automated -> SCLOOPW-234:Cancelled
+22297246:Automated -> SCLOOPW-234:Cancelled
+22297259:Automated -> SCLOOPW-234:Cancelled
+22297262:Automated -> SCLOOPW-234:Cancelled
+22297271:Automated -> SCLOOPW-234:Cancelled
+22297302:Automated -> SCLOOPW-234:Cancelled
+22297305:Automated -> SCLOOPW-234:Cancelled
+22297307:Automated -> SCLOOPW-234:Cancelled
+22297309:Automated -> SCLOOPW-234:Cancelled
+22297359:Automated -> SCLOOPW-234:Cancelled
+22297311:Automated -> SCLOOPW-234:Cancelled
+25537819:Automated -> SCLOOPW-958:Failed QB
+25746946:Automated -> SCLOOPW-1809:Pending TC Replacement
+25598468:Automated -> SCLOOPW-3109:Failed QB
+25598470:Automated -> SCLOOPW-3109:Failed QB
+25598471:Automated -> SCLOOPW-3109:Failed QB
+25722697:Automated -> SCLOOPW-222:Cancelled
+23975216:Automated -> SCLOOPW-1459:Open
+23975217:Automated -> SCLOOPW-1459:Open
+23975221:Automated -> SCLOOPW-1459:Open
+23975222:Automated -> SCLOOPW-1459:Open
+23976410:Automated -> SCLOOPW-1459:Open
+24022821:Automated -> SCLOOPW-1740:Failed QB
+24022824:Automated -> SCLOOPW-1740:Failed QB
+24022825:Automated -> SCLOOPW-1740:Failed QB
+24022826:Automated -> SCLOOPW-1740:Failed QB
+24022828:Automated -> SCLOOPW-1740:Failed QB
+24022831:Automated -> SCLOOPW-1740:Failed QB
+24022832:Automated -> SCLOOPW-1740:Failed QB
+24022833:Automated -> SCLOOPW-1740:Failed QB
+24022839:Automated -> SCLOOPW-1740:Failed QB
+24022843:Automated -> SCLOOPW-1740:Failed QB
+24022844:Automated -> SCLOOPW-1740:Failed QB
+24022845:Automated -> SCLOOPW-1740:Failed QB
+24022848:Automated -> SCLOOPW-1740:Failed QB
+24022849:Automated -> SCLOOPW-1740:Failed QB
+24022850:Automated -> SCLOOPW-1740:Failed QB
+24022852:Automated -> SCLOOPW-1740:Failed QB
+24022879:Automated -> SCLOOPW-1740:Failed QB
+24022880:Automated -> SCLOOPW-1740:Failed QB
+25676577:Automated -> SCLOOPW-1927:Cancelled
+24004787:Automated -> SCLOOPW-204:Open
+24004796:Automated -> SCLOOPW-204:Open
+24004854:Automated -> SCLOOPW-204:Open
+24004863:Automated -> SCLOOPW-204:Open
+24004867:Automated -> SCLOOPW-204:Open
+24004878:Automated -> SCLOOPW-204:Open
+24005091:Automated -> SCLOOPW-1623:Backlog
+24005093:Automated -> SCLOOPW-1623:Backlog
+24005094:Automated -> SCLOOPW-1623:Backlog
+24005100:Automated -> SCLOOPW-1623:Backlog
+25260958:Automated -> SCLOOPW-205:Open
+22357049:Automated -> SCLOOPW-205:Open
+22357050:Automated -> SCLOOPW-205:Open
+22375451:Automated -> SCLOOPW-205:Open
+22377959:Automated -> SCLOOPW-205:Open
+22377967:Automated -> SCLOOPW-205:Open
+25722998:Automated -> SCLOOPW-215:Cancelled
+24009549:Automated -> SCLOOPW-1533:Cancelled
+24009551:Automated -> SCLOOPW-1533:Cancelled
+24009556:Automated -> SCLOOPW-1533:Cancelled
+24009557:Automated -> SCLOOPW-1533:Cancelled
+24009561:Automated -> SCLOOPW-1533:Cancelled
+24009562:Automated -> SCLOOPW-1533:Cancelled
+24009566:Automated -> SCLOOPW-1533:Cancelled
+24009567:Automated -> SCLOOPW-1533:Cancelled
+24009568:Automated -> SCLOOPW-1533:Cancelled
+24009573:Automated -> SCLOOPW-1533:Cancelled
+24009747:Automated -> SCLOOPW-1533:Cancelled
+24009749:Automated -> SCLOOPW-1533:Cancelled
+24009577:Automated -> SCLOOPW-1533:Cancelled
+24009578:Automated -> SCLOOPW-1533:Cancelled
+24009768:Automated -> SCLOOPW-1533:Cancelled
+24016761:Automated -> SCLOOPW-1543:Pending TC Replacement
+24016765:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018785:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018847:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018850:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018877:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018890:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018896:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018901:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018915:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018924:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018927:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018938:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018940:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018944:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018962:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018971:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018980:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018982:Automated -> SCLOOPW-1543:Pending TC Replacement
+24018992:Automated -> SCLOOPW-1543:Pending TC Replacement
+24019011:Automated -> SCLOOPW-1543:Pending TC Replacement
+24019024:Automated -> SCLOOPW-1543:Pending TC Replacement
+24019036:Automated -> SCLOOPW-1543:Pending TC Replacement
+25544948:Automated -> SCLOOPW-1542:Pending TC Replacement
+25544964:Automated -> SCLOOPW-1542:Pending TC Replacement
+25544965:Automated -> SCLOOPW-1542:Pending TC Replacement
+25544966:Automated -> SCLOOPW-1542:Pending TC Replacement
+25599158:Automated -> SCLOOPW-1561:Cancelled
+25599159:Automated -> SCLOOPW-1561:Cancelled
+25599181:Automated -> SCLOOPW-1561:Cancelled
+25599183:Automated -> SCLOOPW-1561:Cancelled
+25599184:Automated -> SCLOOPW-1561:Cancelled
+25599185:Automated -> SCLOOPW-1561:Cancelled
+25599186:Automated -> SCLOOPW-1561:Cancelled
+24029681:Automated -> SCLOOPW-1535:Open
+24029686:Automated -> SCLOOPW-1535:Open
+24029710:Automated -> SCLOOPW-1535:Open
+24029713:Automated -> SCLOOPW-1535:Open
+24029723:Automated -> SCLOOPW-1535:Open
+24029726:Automated -> SCLOOPW-1535:Open
+24029675:Automated -> SCLOOPW-1535:Open
+24029752:Automated -> SCLOOPW-1535:Open
+24029765:Automated -> SCLOOPW-1535:Open
+24029769:Automated -> SCLOOPW-1535:Open
+24029849:Automated -> SCLOOPW-1535:Open
+24029862:Automated -> SCLOOPW-1535:Open
+24029867:Automated -> SCLOOPW-1535:Open
+24029882:Automated -> SCLOOPW-1535:Open
+24029887:Automated -> SCLOOPW-1535:Open
+24029899:Automated -> SCLOOPW-1535:Open
+24029906:Automated -> SCLOOPW-1535:Open
+24029910:Automated -> SCLOOPW-1535:Open
+24029916:Automated -> SCLOOPW-1535:Open
+24029921:Automated -> SCLOOPW-1535:Open
+24029925:Automated -> SCLOOPW-1535:Open
+24029936:Automated -> SCLOOPW-1535:Open
+24029945:Automated -> SCLOOPW-1535:Open
+24029739:Automated -> SCLOOPW-1535:Open
+25798566:Automated -> SCLOOPW-11139:Open
+25726320:Automated -> SCLOOPW-162:Automation Backlog
+25717848:Automated -> SCLOOPW-1912:E2E PCA Review
+25537746:Automated -> SCLOOPW-1431:Cancelled
+25537748:Automated -> SCLOOPW-1431:Cancelled
+25539339:Automated -> SCLOOPW-911:Cancelled
+25539340:Automated -> SCLOOPW-911:Cancelled
+25539427:Automated -> SCLOOPW-911:Cancelled
+25539480:Automated -> SCLOOPW-911:Cancelled
+25541387:Automated -> SCLOOPW-108:Pending TC Replacement
+25539479:Automated -> SCLOOPW-108:Pending TC Replacement
+25541160:Automated -> SCLOOPW-109:Pending TC Replacement
+25541057:Automated -> SCLOOPW-94:Pending TC Replacement
+25541058:Automated -> SCLOOPW-94:Pending TC Replacement
+25541462:Automated -> SCLOOPW-94:Pending TC Replacement
+25541115:Automated -> SCLOOPW-94:Pending TC Replacement
+25541327:Automated -> SCLOOPW-94:Pending TC Replacement
+25542831:Automated -> SCLOOPW-110:Pending TC Replacement
+25542833:Automated -> SCLOOPW-110:Pending TC Replacement
+25549448:Automated -> SCLOOPW-194:Pending TC Replacement
+25549449:Automated -> SCLOOPW-194:Pending TC Replacement
+25549451:Automated -> SCLOOPW-194:Pending TC Replacement
+25549497:Automated -> SCLOOPW-194:Pending TC Replacement
+25549498:Automated -> SCLOOPW-194:Pending TC Replacement
+25549499:Automated -> SCLOOPW-194:Pending TC Replacement
+25549500:Automated -> SCLOOPW-194:Pending TC Replacement
+25549506:Automated -> SCLOOPW-194:Pending TC Replacement
+25556286:Automated -> SCLOOPW-194:Pending TC Replacement
+25556305:Automated -> SCLOOPW-194:Pending TC Replacement
+25556308:Automated -> SCLOOPW-194:Pending TC Replacement
+25556364:Automated -> SCLOOPW-194:Pending TC Replacement
+25556375:Automated -> SCLOOPW-194:Pending TC Replacement
+25556378:Automated -> SCLOOPW-194:Pending TC Replacement
+25726266:Automated -> SCLOOPW-1667:Automation Backlog
+25746606:Automated -> SCLOOPW-1753:Cancelled
+25726570:Automated -> SCLOOPW-1343:Pending TC Replacement
+25783630:Automated -> SCLOOPW-11094:E2E PCA Review
+25783947:Automated -> SCLOOPW-11077:E2E PCA Review
+25799048:Automated -> SCLOOPW-11252:E2E PCA Review
+23974851:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974861:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974878:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974883:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974887:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974889:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974891:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974894:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974897:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974905:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974924:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974928:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974936:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974951:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974952:Automated -> SCLOOPW-1247:Pending TC Replacement
+23975551:Automated -> SCLOOPW-1247:Pending TC Replacement
+23974832:Automated -> SCLOOPW-1247:Pending TC Replacement
+25749173:Automated -> SCLOOPW-164:E2E PCA Review
+23966512:Automated -> SCLOOPW-1438:Cancelled
+23966513:Automated -> SCLOOPW-1438:Cancelled
+23966514:Automated -> SCLOOPW-1438:Cancelled
+23966515:Automated -> SCLOOPW-1438:Cancelled
+23966516:Automated -> SCLOOPW-1438:Cancelled
+23966517:Automated -> SCLOOPW-1438:Cancelled
+25803525:Automated -> SCLOOPW-11401:E2E PCA Review
+25803526:Automated -> SCLOOPW-11404:E2E PCA Review
+23974591:Automated -> SCLOOPW-1551:Failed QB
+23974596:Automated -> SCLOOPW-1551:Failed QB
+23974598:Automated -> SCLOOPW-1551:Failed QB
+24003064:Automated -> SCLOOPW-68:Open
+24003723:Automated -> SCLOOPW-68:Open
+24003740:Automated -> SCLOOPW-68:Open
+24003748:Automated -> SCLOOPW-68:Open
+24004180:Automated -> SCLOOPW-68:Open
+24004182:Automated -> SCLOOPW-68:Open
+24004203:Automated -> SCLOOPW-68:Open
+24004245:Automated -> SCLOOPW-68:Open
+24004265:Automated -> SCLOOPW-68:Open
+24004288:Automated -> SCLOOPW-68:Open
+24004293:Automated -> SCLOOPW-68:Open
+24004345:Automated -> SCLOOPW-68:Open
+24004341:Automated -> SCLOOPW-68:Open
+24004364:Automated -> SCLOOPW-68:Open
+25786811:Automated -> SCLOOPW-11160:E2E PCA Review
+25798888:Automated -> SCLOOPW-11260:E2E PCA Review
+25798971:Automated -> SCLOOPW-11267:E2E PCA Review
+25799049:Automated -> SCLOOPW-11244:E2E PCA Review
+25799247:Automated -> SCLOOPW-11322:E2E PCA Review
+25801382:Automated -> SCLOOPW-11310:E2E PCA Review
+25801385:Automated -> SCLOOPW-11312:E2E PCA Review
+25799491:Automated -> SCLOOPW-11328:E2E Definition
+25799080:Automated -> SCLOOPW-11306:Pending TC Replacement
+25799138:Automated -> SCLOOPW-11332:Pending TC Replacement
+25799158:Automated -> SCLOOPW-11336:Pending TC Replacement
+25799092:Automated -> SCLOOPW-11316:Pending TC Replacement
+25801777:Automated -> SCLOOPW-11341:Cancelled
+25801823:Automated -> SCLOOPW-11430:Cancelled
+25801872:Automated -> SCLOOPW-11432:Cancelled
+25801925:Automated -> SCLOOPW-11438:Cancelled
+25801935:Automated -> SCLOOPW-11441:Cancelled
+25801992:Automated -> SCLOOPW-11443:Cancelled
+25540416:Automated -> SCLOOPW-94:Pending TC Replacement
+25541395:Automated -> SCLOOPW-108:Pending TC Replacement
+25542983:Automated -> SCLOOPW-110:Pending TC Replacement
+26077947:Automated -> SCLOOPW-7931:Cancelled
+26124305:Automated -> SCLOOPW-12632:E2E PCA Review
+26126133:Automated -> SCLOOPW-1823:E2E PCA Review
+26139263:Automated -> SCLOOPW-12878:E2E PCA Review
+26289746:Automated -> SCLOOPW-13741:E2E PCA Review
+26323285:Automated -> SCLOOPW-13747:E2E Definition
+26349391:Automated -> SCLOOPW-13737:E2E Definition
+26349469:Automated -> SCLOOPW-1796:Cancelled
+26083372:Automated -> SCLOOPW-11244:E2E PCA Review
+1035144:Automated -> SKYVERA-1399:Closed
+14119617:Automated -> EPMLCID-18204:Released
+14119619:Automated -> EPMLCID-18204:Released
+14119624:Automated -> EPMLCID-18204:Released
+14119634:Automated -> EPMLCID-18204:Released
+744303:Automated -> EPMLCID-19605:Open
+20632652:Automated -> TS-3710:Cancelled
+19247109:Automated -> TS-3523:Automation Backlog
+19247103:Automated -> TS-3603:Automation Backlog
+19247115:Automated -> TS-3607:Cancelled
+19076678:Automated -> TS-3611:Cancelled
+19076694:Automated -> TS-3617:Cancelled
+20632588:Automated -> TS-3605:Cancelled
+20632634:Automated -> TS-3613:Cancelled
+19076675:Automated -> TS-3595:Cancelled
+19076689:Automated -> TS-3595:Cancelled
+20632602:Automated -> TS-3530:Dependency Block
+20632646:Automated -> TS-3530:Dependency Block
+20632665:Automated -> TS-3532:Dependency Block
+20632670:Automated -> TS-3532:Dependency Block
+20632688:Automated -> TS-3533:Dependency Block
+20632694:Automated -> TS-3533:Dependency Block
+20632606:Automated -> TS-3768:Cancelled
+19076712:Automated -> TS-3494:Failed QB
+19076697:Automated -> TS-3561:Backlog
+19076705:Automated -> TS-3569:In Execution
+19076727:Automated -> TS-3570:Automation Backlog
+19076729:Automated -> TS-3571:Automation Backlog
+19076731:Automated -> TS-3574:Automation Backlog
+19076732:Automated -> TS-3574:Automation Backlog
+20632635:Automated -> TS-3561:Backlog
+25258482:Automated -> TS-3574:Automation Backlog
+19076685:Automated -> TS-3542:Backlog
+19247111:Automated -> TS-3544:Backlog
+19247119:Automated -> TS-3544:Backlog
+20632620:Automated -> TS-3542:Backlog
+20632649:Automated -> TS-3542:Backlog
+20632692:Automated -> TS-3542:Backlog
+20632705:Automated -> TS-3542:Backlog
+20632716:Automated -> TS-3544:Backlog
+20632722:Automated -> TS-3544:Backlog
+19247117:Automated -> TS-3552:Automation Backlog
+19247122:Automated -> TS-3552:Automation Backlog
+19247127:Automated -> TS-3552:Automation Backlog
+20632621:Automated -> TS-3549:Automation Backlog
+20632653:Automated -> TS-3549:Automation Backlog
+20632707:Automated -> TS-3552:Automation Backlog
+25237908:Automated -> TS-3546:Backlog
+19076666:Automated -> TS-3565:Cancelled
+19516988:Automated -> TS-3631:Cancelled
+19516995:Automated -> TS-3641:Cancelled
+19517000:Automated -> TS-3643:Cancelled
+19517005:Automated -> TS-3646:Cancelled
+19517008:Automated -> TS-3648:Cancelled
+19517012:Automated -> TS-3652:Cancelled
+19517015:Automated -> TS-3654:Cancelled
+20632592:Automated -> TS-3629:Cancelled
+20632631:Automated -> TS-3521:Automation Backlog
+20632673:Automated -> TS-3521:Automation Backlog
+20632601:Automated -> TS-3575:Cancelled
+20632640:Automated -> TS-3575:Cancelled
+20632674:Automated -> TS-3576:Cancelled
+20632701:Automated -> TS-3576:Cancelled
+20632711:Automated -> TS-3576:Cancelled
+20632719:Automated -> TS-3577:Cancelled
+20632728:Automated -> TS-3577:Cancelled
+20385431:Automated -> TS-3659:Cancelled
+20385495:Automated -> TS-3659:Cancelled
+20385567:Automated -> TS-3686:Cancelled
+20385631:Automated -> TS-3690:Automation Backlog
+20385694:Automated -> TS-3695:Backlog
+20385764:Automated -> TS-3710:Cancelled
+20385826:Automated -> TS-3712:Cancelled
+20385886:Automated -> TS-3714:Failed QB
+20385433:Automated -> TS-3629:Cancelled
+20385504:Automated -> TS-3631:Cancelled
+20385571:Automated -> TS-3641:Cancelled
+20385645:Automated -> TS-3643:Cancelled
+20385707:Automated -> TS-3646:Cancelled
+20385775:Automated -> TS-3648:Cancelled
+20385893:Automated -> TS-3652:Cancelled
+20385934:Automated -> TS-3654:Cancelled
+20385436:Automated -> TS-3523:Automation Backlog
+20385498:Automated -> TS-3737:Failed QB
+20385570:Automated -> TS-3743:Failed QB
+20385633:Automated -> TS-3748:Cancelled
+20385445:Automated -> TS-3575:Cancelled
+20385508:Automated -> TS-3575:Cancelled
+20385577:Automated -> TS-3576:Cancelled
+20385648:Automated -> TS-3576:Cancelled
+20385717:Automated -> TS-3576:Cancelled
+20385793:Automated -> TS-3577:Cancelled
+20385853:Automated -> TS-3577:Cancelled
+20385463:Automated -> TS-3595:Cancelled
+20385525:Automated -> TS-3595:Cancelled
+20385725:Automated -> TS-3741:Failed QB
+20385810:Automated -> TS-3741:Failed QB
+20385876:Automated -> TS-3741:Failed QB
+20385460:Automated -> TS-3530:Dependency Block
+20385522:Automated -> TS-3530:Dependency Block
+20385595:Automated -> TS-3532:Dependency Block
+20385657:Automated -> TS-3532:Dependency Block
+20385715:Automated -> TS-3533:Dependency Block
+20385777:Automated -> TS-3533:Dependency Block
+20385718:Automated -> TS-3766:Backlog
+20385778:Automated -> TS-3766:Backlog
+20385514:Automated -> TS-3725:Cancelled
+20385582:Automated -> TS-3725:Cancelled
+20385458:Automated -> TS-3768:Cancelled
+20385539:Automated -> TS-3728:Cancelled
+20385601:Automated -> TS-3728:Cancelled
+20385662:Automated -> TS-3728:Cancelled
+20385721:Automated -> TS-3735:Failed QB
+20385781:Automated -> TS-3735:Failed QB
+20385843:Automated -> TS-3735:Failed QB
+20385471:Automated -> TS-3561:Backlog
+20385533:Automated -> TS-3561:Backlog
+20385606:Automated -> TS-3569:In Execution
+20385667:Automated -> TS-3570:Automation Backlog
+20385727:Automated -> TS-3571:Automation Backlog
+20385789:Automated -> TS-3574:Automation Backlog
+20385858:Automated -> TS-3574:Automation Backlog
+20385910:Automated -> TS-3574:Automation Backlog
+20385472:Automated -> TS-3542:Backlog
+20385540:Automated -> TS-3542:Backlog
+20385609:Automated -> TS-3542:Backlog
+20385682:Automated -> TS-3542:Backlog
+20385743:Automated -> TS-3542:Backlog
+20385805:Automated -> TS-3544:Backlog
+20385873:Automated -> TS-3544:Backlog
+20385917:Automated -> TS-3544:Backlog
+20385955:Automated -> TS-3544:Backlog
+20385483:Automated -> TS-3546:Backlog
+20385544:Automated -> TS-3549:Automation Backlog
+20385642:Automated -> TS-3549:Automation Backlog
+20385711:Automated -> TS-3552:Automation Backlog
+20385787:Automated -> TS-3552:Automation Backlog
+20385856:Automated -> TS-3552:Automation Backlog
+20385909:Automated -> TS-3552:Automation Backlog
+20385490:Automated -> TS-3568:In Execution
+20385558:Automated -> TS-3568:In Execution
+20385621:Automated -> TS-3567:Automation Backlog
+20385679:Automated -> TS-3566:Backlog
+20385740:Automated -> TS-3565:Cancelled
+20385863:Automated -> TS-3565:Cancelled
+20385928:Automated -> TS-3565:Cancelled
+26140436:Automated -> JCM-5449:Automation Backlog
+26141407:Automated -> JCM-3479:Automation Backlog
+25747874:Automated -> SUPSOFT-5113:In Writing
+25748305:Automated -> SUPSOFT-4169:Backlog
+25748316:Automated -> SUPSOFT-4172:Automation Backlog
+25758124:Automated -> SUPSOFT-5000:Automation Backlog
+26331325:Automated -> SUPSOFT-9508:Backlog
+26165608:Automated -> TBISUP-950:Automation Backlog
+25744581:Automated -> SARAT-1628:Cancelled
+25740214:Automated -> SARAT-1413:Automation Backlog
+25741069:Automated -> SARAT-1410:Automation Backlog
+25806989:Automated -> JVHOPDH-1003:Dependency Block
+25862553:Automated -> JVHOPDH-446:Open
+26056506:Automated -> JVHOPDH-1921:Open
+26056542:Automated -> JVHOPDH-1920:Open
+26057716:Automated -> JVHOPDH-781:E2E Definition
+26082559:Automated -> JVHOPDH-1028:Automation Backlog
+26086195:Automated -> JVHOPDH-887:Automation Backlog
+26296547:Automated -> JVHOPDH-3401:Open
+26296992:Automated -> JVHOPDH-3418:Open
+26145159:Automated -> SOCOCO-3409:Dependency Block
+26145323:Automated -> SOCOCO-3182:Automation Backlog
+26164637:Automated -> SOCOCO-3309:Dependency Block
+26166519:Automated -> SOCOCO-3310:Open
+26167449:Automated -> SOCOCO-3307:Blocked
+26341309:Automated -> SOCOCO-5088:Cancelled
+26471168:Automated -> SOCOCO-6951:Cancelled

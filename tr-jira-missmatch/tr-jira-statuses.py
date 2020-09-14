@@ -54,7 +54,25 @@ def get_chunks(lst, n):
     for i in range(0, len(lst), n):
         yield lst[i:i + n]
 
-#340 - fails because key doesn't exist
+def inBlackList(key):
+    if(key == 'CRMPAD-1146' or 
+    ('-0' in key) or
+    (key == 'GFIME-4889') or
+    (key == 'GFIME-5037') or
+    (key == 'GFIME-3542') or
+    (key == 'GFIME-4646') or 
+    (key == 'EXOS-4117') or
+    (key == 'RESPTK-240611' or 
+    (key == 'SNSGCID-54404') or
+    (key == 'AWORK-34333') or
+    (key == 'AWORK-40186') or
+    (key == 'AWORK-38709') or
+    (key == 'AWORK-39635')
+    )):
+        print("{0} is in black list, skipping".format(key))
+        return True
+    return False    
+
 #574 - fails because key doesn't exist
 #523 - fails because key doesn't exist
 #530 - fails because key doesn't exist
@@ -66,9 +84,9 @@ def get_chunks(lst, n):
 #520 - fails because key doesn't exist 
 #332 - fails because key doesn't exist 
 #342 - fails because key doesn't exist 
-project_ids = [507]
 
-# project_ids = [332]
+project_ids = []
+
 
 for project_id in project_ids:
 
@@ -100,9 +118,9 @@ for project_id in project_ids:
     options = {"server": "https://jira.devfactory.com/"}
     jira = JIRA(options, basic_auth=(os.environ['AD_USER'],os.environ['AD_PASSWORD']))    
     chunk_size = 50
-    chunks = get_chunks(automated_cases, 25)
+    chunks = get_chunks(automated_cases, chunk_size)
     i = 0
-    for chunk in chunks:
+    for chunk in list(chunks):
         i = i+1
         print(" chunk {0} of {1} loaded".format(i, round(len(automated_cases)/chunk_size)+1))
         keys = []
@@ -113,7 +131,9 @@ for project_id in project_ids:
         jira_key_pattern = re.compile('^((?!([A-Z0-9a-z]{1,10})-?$)[A-Z]{1}[A-Z0-9]+-\d+)$')
         for key in keys:
             if(jira_key_pattern.match(key)):
-                filtered_keys.append(jira_key_pattern.findall(key)[0][0])
+                matched_key = jira_key_pattern.findall(key)[0][0]
+                if(inBlackList(matched_key) == False):
+                    filtered_keys.append(matched_key)
         if(len(filtered_keys) == 0):
             break
         for issue in jira.search_issues('key in ({0})'.format(", ".join(filtered_keys)), maxResults=1000):

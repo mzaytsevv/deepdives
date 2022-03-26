@@ -14,7 +14,7 @@
     "git-changed-files": "^1.0.0",
     "husky": "^4.2.5",
     "jscpd": "^3.3.0-rc.6",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "husky": {
     "hooks" : {
